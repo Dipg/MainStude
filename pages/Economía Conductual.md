@@ -167,6 +167,7 @@
 				-
 				-
 	- ## 2. Heurísticas, Sesgos y actualización Bayesiana  #yellow
+	  collapsed:: true
 		- ¿ Que son los heurísticos?
 		  collapsed:: true
 			- Los heurísticos son reglas generales y poco definidas que funcionan como “atajos” mentales para resolver problemas que paso a paso serían en extremo complejos. [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
@@ -184,6 +185,7 @@
 			-
 			  link:: [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
 		- Sesgo de Frecuencia Base
+		  collapsed:: true
 			- Solemos dar mas peso a la información de un caso en particular de un evento que al información  del mismo evento, ósea la información base o  general.
 			- De este modo daremos la probabilidad de un evento en base a un caso en particular que a la  probabilidad general o base de ese evento
 			- Consecuencias: Sobreestimación de eventos
@@ -191,38 +193,104 @@
 			-
 			  link:: [🔗](https://psicologiaymente.com/inteligencia/falacia-frecuencia-base)
 		- La ley de los pequeño números
+		  collapsed:: true
+			- Sujetos tienden a pensar que una pequeña muestra es representativa de la sociedad
 			- Se cree que una muestra se distribuye de la misma forma que la población, por lo tanto es valido e igual  inferir resultados de una muestra de 7, 70 o 7000 observaciones de una muestra hacia la población, debido a que a cada muestra se le aplica principios de poblaciones infinitas sin distinció.
 			- Se piensa que se han planteado variables independientes e idénticamente distribuidas.
 			- Ejemplo:
 			  collapsed:: true
 				- 9 de cada 10 especialistas lo recomiendan
-			- 🌱 Falacia del apostador
-				- Creer que un evento esta  ***Negativamente*** correlacionado con el primero
-				  id:: 619a6bc3-9342-44a7-b7a8-9f4a32f86373
-			- 🌱 Efecto de la Mano caliente #red
-				- Creer que un evento esta  ***Positivamente*** correlacionado con el primero
-				- Se calcula que por un buen resultado en un evento inicial se incrementa en gran medida la probabilidad de éxito de un resultado futuro
-				- Se da cuando se tiene incertidumbre en como es la distribución de los resultados
+			- ¿Cuál es la falacia y efecto que se enmarca en esta ley?
+			  collapsed:: true
+				- 🌱 Falacia del apostador
+				  collapsed:: true
+				  id:: 619a6bc3-3a6c-4c2a-a6b2-146c60a526ea
+					- Creer que un evento esta  ***Negativamente*** correlacionado con el primero
+					  id:: 619a6bc3-9342-44a7-b7a8-9f4a32f86373
+				- 🌱 Efecto de la Mano caliente #red
+				  collapsed:: true
+					- Creer que un evento esta  ***Positivamente*** correlacionado con el primero
+					- Se calcula que por un buen resultado en un evento inicial se incrementa en gran medida la probabilidad de éxito de un resultado futuro
+					- Se da cuando se tiene incertidumbre en como es la distribución de los resultados
+					- Ejemplo:
+						- La sobreestimación de tendencias en los [[Mercados Financieros]], en el corto plazo, ((619a6bc3-3a6c-4c2a-a6b2-146c60a526ea)) en el largo plazo efecto de la mano caliente
+			- 🌱 ¿Cuándo no se cumple esta ley?
+			  collapsed:: true
+				- En eventos no independientes : eventos de permutación aleatoria
+				- Eventos aleatorios: Sesgos de parte de administrador
+				- Probabilidades cambiantes. Puede favorecer a un jugador
 		- Sesgos de auto evaluación
-		  collapsed:: true
-			- Exceso de seguridad
-			- Falta de seguridad
-			- Sesgo de auto servicio
-			- Sesgo de Poyección
-			-
+			- 🌱 Exceso de seguridad
+			  collapsed:: true
+				- Sobreestimación
+				  collapsed:: true
+					- Sobre valoración de habilidades
+				- Sobreposicionamieto
+				  collapsed:: true
+					- Sobre estimación de capacidades en base a un punto de referencia
+					- Ejemplo:
+					  collapsed:: true
+						- La mayoría de conductores se creen mejor que el promedio
+				- Sobreprecisión
+				  collapsed:: true
+					- Excesiva seguridad sobre la precisión de nuestras creencias
+					- Ejm:
+					  collapsed:: true
+						- Sobre estimación de la precisión en inversores
+			- 🌱 Falta de seguridad
+			  collapsed:: true
+				- Subestimación de confianza tanto en tareas difíciles con bajan probabilidad de exito, como en tareas fáciles, con alta probabilidad de éxito
+				- Eso debido a la falta de información de sus habilidades y su probabilidad de éxito, estimadolas así de forma regresiva las propias  habilidades y mucho mas regresivas la de los otros
+			- 🌱 Sesgo de autoservicio
+			  collapsed:: true
+				- Conjunto de diferentes sesgos de creencias, en los cuales el individuo se atribuye el éxito a habilidades y destrezas propias y atribuye el fracaso a factores externos.
+				- Tendencia a modelar crecías y juicios con el objetivo  de mejorar una opinión propia
+				- Este error es una función positiva de la utilidad
+			- 🪴 Sesgo de Poyección
+			  collapsed:: true
+				- Se basa en creer que nuestra utilidad futura dependerá de los mismos factores de los que depende hoy, esto quiere decir que nuestras preferencias futuras serán las mismas o muy cercanas a las actuales
+				- Estudios concluyen que aproximadamente los consumidores predicen los gustos futuros  aproximadamente entre los actuales y los futuros
+				- Ejm:
+					- Luego del almuerzo 42% elige snacks
+					- Media tarde 78% los elije
+				- Función Matemática
+				  collapsed:: true
+					- ((619a8033-e651-4106-ad3b-3bcf7b6778ee))
+					- Por lo que la utilidad futura que espera el individuo es:
+					- ((619a8015-f3e8-4072-894b-f7c829583f36))
+					- Donde:
+						- ((619a804d-769f-4ce9-8003-66266bf83c79))
 	- ## 3 Causas de la irracionalidad  #yellow
-	  collapsed:: true
+		- Baumeister(2001) ha identificado 5 causas del comportamiento irracional o también conocidas como comportamientos contraproducentes
 		- Angustia emocional
-		  collapsed:: true
+			- ¿Cual es la posición del [[modelo económico estándar]] frente a las emociones?
+			  collapsed:: true
+				- Recordemos que la posición de los economistas es no tener en cuenta las emociones para sus análisis, ya que estas tienden a nublar el buen juicio, dando así decisiones "irracionales" o lo que se conoce conductas contra producentes
+			- ¿Cuál es la posición de la economía conductual frente a las emociones?
+				- Dependiendo de la situación las emociones **Mejoran** o empeoran la toma de decisiones.
+				- Ejem
+					- ¿Cómo afecta de mala manera las emociones en nuestra toma de decisiones?
+					  collapsed:: true
+						- La ira en la toma de decisiones, genera estrés sobre al decisión a aceptar, o aumenta su nivel de exposición al riesgo, hechos que se eliminan si se hacer reflexionar al individuo sobre este echo.
+					- ¿Como afecta de buena manera las emociones en la toma de decisiones?
+					  collapsed:: true
+						- Cuando una emoción nos genera compromiso para llevar a cabo ciertas actividades, en circunstancias en las que un estado racional no lo haría
+						- 🌱 [[Efecto reputación]]
+							- El mismo que sirve para mantener nuestro interés a largo plazo
 			- Memoria
+				- Aquellas emociones tanto positivas como negativas no suelen permanecer mucho tiempo en un individuo hasta que este recupere su estado "neutro"
+				- Sin embargo solemos creer que estas emociones se quedaran con nosotros mucho mas tiempo del que realmente es, es decir sobreestimamos el tiempo en el que sentiremos las emociones, [[sesgo de durabilidad]].
+				- 🌱 Implicaciones
+					- Para Políticas de felicidad (bienestar subjetivo )
 			- Disonancia cognitiva
+				-
 		- Autoestima amenazada
 		- Falla de autorregulación
 		  collapsed:: true
 			- Falta de decisión
 			- Rechazo y pertenencia
 	-
-- Dcoumentos
+- Doumentos
   collapsed:: true
 	- Unidad 1
 		- ![Unidad I - Introducción.pdf](../assets/Unidad_I_-_Introducción_1637370795899_0.pdf)  #yellow
