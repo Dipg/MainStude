@@ -194,15 +194,11 @@
 			- Se cree que una muestra se distribuye de la misma forma que la población, por lo tanto es valido e igual  inferir resultados de una muestra de 7, 70 o 7000 observaciones de una muestra hacia la población, debido a que a cada muestra se le aplica principios de poblaciones infinitas sin distinció.
 			- Se piensa que se han planteado variables independientes e idénticamente distribuidas.
 			- Ejemplo:
-			  collapsed:: true
 				- 9 de cada 10 especialistas lo recomiendan
-			- 🌱 Falacia del apostador
-				- Creer que un evento esta  ***Negativamente*** correlacionado con el primero
-				  id:: 619a6bc3-9342-44a7-b7a8-9f4a32f86373
-			- 🌱 Efecto de la Mano caliente #red
-				- Creer que un evento esta  ***Positivamente*** correlacionado con el primero
-				- Se calcula que por un buen resultado en un evento inicial se incrementa en gran medida la probabilidad de éxito de un resultado futuro
-				- Se da cuando se tiene incertidumbre en como es la distribución de los resultados
+			- Efecto de la Mano caliente �
+				- #red
+				- Creer que un evento esta  negativamente correlacionado con el primero
+			- Falacia del apostador
 		- Sesgos de auto evaluación
 		  collapsed:: true
 			- Exceso de seguridad
