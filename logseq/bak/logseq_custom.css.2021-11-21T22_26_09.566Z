@@ -1,14 +1,6 @@
 .block-ref>div>span>span>span>div>.tag{
 	display: none !important;
 }
-.block-ref>div>span>span>span>a{
-	display: none !important;
-}
-
-.block-ref>div>span>span>h2>.asset-ref-wrap{
-	display: none !important;
-}
-
 
 .block-ref>div>span>span>h2>div>.tag{
 	display: none !important;
@@ -111,22 +103,4 @@
 
 #pdf-layout-container[data-theme=dark] {
     background-color: #27272b !important;
-}
-
-
-
-.asset-ref.is-pdf:after {
-
-	display: none !important;
-    
-}
-
-.asset-ref.is-pdf:before {
-	display: none !important;
-    
-}
-
-.is-pdf> span{
-
-    font-size: 18px !important;
 }

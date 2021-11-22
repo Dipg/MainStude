@@ -1,9 +1,7 @@
 .block-ref>div>span>span>span>div>.tag{
 	display: none !important;
 }
-.block-ref>div>span>span>span>a{
-	display: none !important;
-}
+
 
 .block-ref>div>span>span>h2>.asset-ref-wrap{
 	display: none !important;

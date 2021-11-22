@@ -42,8 +42,8 @@
 			  collapsed:: true
 				- Carne roja Orgánica
 	- Invarianza
-	  collapsed:: true
 	  id:: 619971f6-62bf-47ca-a1cf-eb0f11796938
+	  collapsed:: true
 		- Diferentes presentaciones de un mismo problema de elección no hace que cambie nuestra preferencia , a esto se le conoce como:
 			- Invarianza en la descripción
 			- Invarianza en el método de suscitación/Obtención de información [[Elicitación]]

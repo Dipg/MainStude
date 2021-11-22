@@ -1,14 +1,6 @@
 .block-ref>div>span>span>span>div>.tag{
 	display: none !important;
 }
-.block-ref>div>span>span>span>a{
-	display: none !important;
-}
-
-.block-ref>div>span>span>h2>.asset-ref-wrap{
-	display: none !important;
-}
-
 
 .block-ref>div>span>span>h2>div>.tag{
 	display: none !important;
@@ -126,7 +118,7 @@
     
 }
 
-.is-pdf> span{
+.asset-ref .is-pdf{
 
-    font-size: 18px !important;
+    font-size: 5px !important;
 }
