@@ -5,10 +5,6 @@
 	display: none !important;
 }
 
-.block-ref>div>span>span>span>.prefix-link{
-	display: inline-block !important;
-}
-
 .block-ref>div>span>span>h2>.asset-ref-wrap{
 	display: none !important;
 }

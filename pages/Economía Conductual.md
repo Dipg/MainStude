@@ -103,7 +103,6 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 		-
 # Unidad 2  #yellow
 	- ## Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
-	  collapsed:: true
 		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
 		  collapsed:: true
 			- Preferencias
@@ -115,13 +114,13 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 			- [[Racionalidad]]
 				-
 		- ¿Cuáles son los supuestos del [[modelo económico estándar]] ?
+		  collapsed:: true
 			- {{embed ((61986c0a-c73c-4efc-8d25-a4989c91fe8c))}}
 			- De acuerdo con los axiomas y supuestos descritos , somos:
 			  collapsed:: true
 				- Racionales
 		- ## 1. Sesgo cognitivo #yellow
 		  id:: 61985334-f1bd-466f-a97e-9543d114a293
-		  collapsed:: true
 			- ¿ Donde se presentan los sesgos cognitivos?
 			  collapsed:: true
 				- Antes de revisar los sesgos , debemos plantearnos cuales son los criterios que se postulan en la racionalidad y que se ven influenciados por estos segos
@@ -131,9 +130,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 			  collapsed:: true
 				- Es una interpretación errónea sistemática de la información disponible  a la hora de procesar pensamientos, hacer juicios de valor y ==tomar decisiones==
 			- Efectos #red
-			  collapsed:: true
 				- Efecto dotación
-				  collapsed:: true
 					- Este efecto nos causa que tendemos a valorar más un objeto que poseemos frente a otro que todavía no es nuestro.  Nos cuesta mas despegarnos de las cosas con las que hemos creado un vinculo emocional asociado a la de propiedad.
 					- Esto quiere decir que damos utilidad a algo dependiendo de la posesión de aquello.
 					- Factor [[Psicología]] principal: aversión al riesgo
@@ -168,9 +165,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					-
 					-
 		- ## 2. Heurísticas, Sesgos y actualización Bayesiana  #yellow
-		  collapsed:: true
 			- ¿ Que son los heurísticos?
-			  collapsed:: true
 				- Los heurísticos son reglas generales y poco definidas que funcionan como “atajos” mentales para resolver problemas que paso a paso serían en extremo complejos. [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
 			- Heurística de disponibilidad
 			  collapsed:: true
@@ -255,7 +250,6 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 						- Luego del almuerzo 42% elige snacks
 						- Media tarde 78% los elije
 					- Función Matemática
-					  collapsed:: true
 						- ((619a8033-e651-4106-ad3b-3bcf7b6778ee))
 						- Por lo que la utilidad futura que espera el individuo es:
 						- ((619a8015-f3e8-4072-894b-f7c829583f36))
@@ -330,23 +324,61 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					- crear el sentido de pertenencia en mujeres ayuda a incrementar permanencia y representación
 	- ## Teoría Prospectiva ![📑](../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf) ![📜](../assets/Dialnet-TeoriaProspectiva-65981_(1)_1637533445262_0.pdf)
 	  id:: 619acd7b-c30d-4687-b87f-c7d1ad7bb6a3
+	  collapsed:: true
 		- Es un modelo alternativo para que explica la toma de decisiones individuales bajo riesgo. Esta teoría fue desarrollada para alternativas simples con resultados monetarios y probabilidades dadas.
 		- La teoría prospectiva distingue dos fases en el proceso de elección : una fase de preparación o edición y una subsecuente de evaluación.
-		- Fase de Edición
+		- [](#1.) Fase de Edición
+		  collapsed:: true
 			- Aplicación de diferentes operaciones para transformar los resultados y probabilidades asociadas  a los prospectos disponibles / ofertados.
 			- [](#1.) Codificación
 			  id:: 619adee6-d652-4d62-917f-a9d294c838ab
 				- Las ganancias o las perdidas se valoraran dependiendo del punto inicial en el que se encuentre el individuo, no es lo mismo como te sientes al tener  10$ después de tener 1 $ que después de tener 20 $,
 				- Es decir la ganancia o la perdida se hace relativa a un punto de referencia.
 			- [](#2.) Combinación
-			- [](#3.) Separación
+			  collapsed:: true
+				- Donde se presentan las siguientes alternativas (200,.25;200,.25), esto es una lotería donde ganas 200 con una probabilidad de 0.25 en una opción, y ganas 200 con una probabilidad de 0.25 en la otra opción: Lo que nos daría un valor esperado de  →
+				- VE=(200) (0.25)+(200)(0.25) =100  → Esto se puede simplificar combinando →
+				- VE= (200) (0.5) = 100
+			- [](#3.) Segregación:
+			  collapsed:: true
+				- En esta ocasión se agrega un componente no riesgoso y se evalúa respecto a uno riesgoso:  (300,0.80)(200,0.20) → de aquí podemos sacar un componente no riesgo y otro riesgoso que nos de el mismo valor esperado.
+				- VE= (300)(0.80)+(200) (0.20)=280
+				- VE= 200+(100)(0.80) =280
 			- [](#4.) Cancelación
+			  collapsed:: true
+				- El componente compartid es suprimido
+				- Tenemos (200,0.20;100,0.50;-50,0.30) y (200,0.20; 150,0.50;-100,0.30) → lo que puede reducirse por cancelación a la comparación entre (100,0.50;-50,0.30) y (150,0.50;-100,0.30)
 			- [](#5.) Simplificación
+			  collapsed:: true
+				- Redondear probabilidades o resultados  (101, 0.49) como (100, 0.49) o (101, 0.50).
+				- Además una de las formar de simplificar es reduciendo los resultados extremadamente improbables
 			- [](#6.)  Escaneo
+			  collapsed:: true
+				- Para poder eliminar las alternativas dominadas
 			-
+		- [](#2.) Fase de Evaluación
+		  collapsed:: true
+			- Una vez que ya emos editado nuestras opciones queda obtener su valor, para ello no usamos únicamente probabilidades sino ponderaciones de las probabilidades $$ \pi (p)$$, esto para optener el valor total de x $$v(x)$$, como en este caso se toman en cuenta dos escenarios también le sumamos  $$\pi(q) v(y)$$ con lo que la formula para el valor propuesta por [[Kahneman & Tversky]] es:
+			- #+BEGIN_CENTER
+			  ((619aff0a-2243-49b6-8035-109eaadb2603))
+			  #+END_CENTER
+			- Para un valor global de un prospecto regular
+			- En caso de certeza
+			- ((619aff4b-9adf-4862-9221-d27179becf90))
+			- Para un  valor global de un proceso estrictamente  +/-, se deine como:
+			- ((619aff83-a0cf-412f-9ebc-3760f85b814d))
+			- Donde $v(y)$ es el componente no/menos riesgoso
+			- y ((619affbe-4020-4cec-942b-6c68392ca7ba))
+			- Esto se puede apreciar en su grafica, donde las ganancias son cóncavas y las perdidas convexas con mayor pendiente debido a la aversión al riesgo mayor que la ganancia
+			- ((619b0020-b91e-46c5-aaf8-d42df7848b2e))
+			- recordar que debido a que en esta teoría se de la una mayor probabilidad cundo la probabilidad es baja y una menor probabilidad cunado la probabilidad es alta , ose se ponderan las probabilidades, esto se podría expresar con la siguiente formula
+			- ((619b00da-d762-4676-a956-7751bfb501c5))
+			- Así como de manera gráfica:
+			- ![image.png](../assets/image_1637548323013_0.png){:height 343, :width 448}
+			- En eje x la probabilidad $p$ y en el eje y la ponderación $\pi(p)$
 	- ## Preferencias Sociales ![ 📑](../assets/Unidad_II_-_Preferencias_sociales_1637442525025_0.pdf) #yellow
 	-
-- ((619adee6-d652-4d62-917f-a9d294c838ab))
+-
 -
 -
   ---
