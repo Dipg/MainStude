@@ -1,12 +1,5 @@
 
 
-
-
-
-resize image-resize
-
-
-
 .block-ref>div>span>span>span>div>.tag{
 	display: none !important;
 }

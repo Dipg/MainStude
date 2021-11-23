@@ -2,6 +2,7 @@
   Ciencia que estudia la satisfacción de las ilimitadas necesidades humanas, ante recursos limitados
   #+END_QUOTE
 - Toma de decisiones
+  collapsed:: true
 	- Supuestos a priori
 	  collapsed:: true
 		- Sobre el agente: 
@@ -11,6 +12,7 @@
 		  collapsed:: true
 			- Estructuras definidas de mercado
 - Axiomas
+  collapsed:: true
 	- Completitud
 	  collapsed:: true
 		- Conozco mis preferencias  L<M
@@ -28,6 +30,7 @@
 	- [[Utilidad esperada]] #red
 - Supuestos de Modelo Estándar
   id:: 61986c0a-c73c-4efc-8d25-a4989c91fe8c
+  collapsed:: true
 	- [](#1.) Cancelación
 	  id:: 619971db-6483-4ae0-a832-e77a3f1464a9
 	  collapsed:: true
@@ -55,6 +58,19 @@
 		- Estimación de probabilidad bayesinana 
 		  collapsed:: true
 			- Asume que podemos calcular la  [[probabilidad bayesiana]]  y actualizarlaa a medida que se den determinados sucesos.
+- Teoremas Fundamentales de la economía
+  id:: 619cf53b-fce0-40c3-b7e3-02e285fcfc34
+  collapsed:: true
+	- Primer teorema #Red
+		- Asignación eficiente de Pareto
+		  collapsed:: true
+			- No se puede mejorar la situación de ninguna personas sin empeorar la de alguna otra.
+	- Segundo teorema #Red
+	  collapsed:: true
+		- La Sociedad puede alcanzar cualquier asignación de recursos en el sentido de Pareto, si se realiza una distribución adecuadas de dotaciones iniciales de recursos y luego permite que se desarrolle  intercambios libres en el mercado. Óptimo en el sentido de Pareto si realiza una distribución inicial de recursos
+		- ***Mejora en el sentido de Pareto***
+		  collapsed:: true
+			- Reasignación de recursos implica que un aumento del bienestar de una persona no lleva aparejada la reducción del bienestar de ningún otra .
 -
 -
 -

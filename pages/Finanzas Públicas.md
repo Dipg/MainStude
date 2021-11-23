@@ -67,15 +67,51 @@
 		- ¿ Que estimula el gasto Público ? #red
 		  collapsed:: true
 			- El consumó y el Empleo
-	- Análisis Normativo
+	- Análisis Normativo #red
+	  collapsed:: true
 		- Economía del bienestar
+		  collapsed:: true
 			- ¿ Que hace la economía del bienestar? #Red
 			  collapsed:: true
 				- Análisis de la deseabilidad social de situaciones  económicas alternativas, se da el uso de curvas de indiferencia.
-			- Caja de Edgeworth
-			- Primer teorema fundamental de la economía
-				- Asignación eficiente de Pareto
-					- No se puede mejorar la situación de ninguna personas sin empeorar la de alguna otra.
+			- ¿ QUe es la Caja de Edgeworth ?
+			  collapsed:: true
+				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
+			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
+			- ¿Qué resume las preferencias sociales?
+			  collapsed:: true
+				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de susu componentes.
+				- ¿Qué encuentra la función de bienestar Social?
+				  collapsed:: true
+					- EL Máximo de Bienestar Social
+	- Ventajas absolutas y ventajas comparativas #yellow
+	  collapsed:: true
+		- Ventajas Absolutas
+		  collapsed:: true
+			- Por cantidad , siempre es mejor mayor
+			- Por precio siempres e smejor menor
+		- Ventajas Comparativas
+		  collapsed:: true
+			- Por coste o factor :
+			  collapsed:: true
+				- Se divide  la primera columna por la segunda para obtener la primera celda y se escoge de esa columna la que menor sea
+			- Por cantidad :
+			  collapsed:: true
+				- Divido la columna de alada por la columna que deseo encontrar y obtengo la celda de la columna que busco, de ogual forma elijo en la columna la que menor sea
+	- Fallas del mercado
+		- ¿Cuáles son las fallas del mercado?
+			- Poder de mercado
+				- Monopolio
+					- Img=CMg
+					- Vendo menos y cobro mas
+			- Información Incompleta
+			- Externalidades
+			- Bienes Públicos
+				- Free Rider
+				  collapsed:: true
+					- Polizón , aprovecha los bienes públicos sin pagar por ellos
+-
+-
 -
 -
 -
