@@ -28,26 +28,26 @@
 	- [[Utilidad esperada]] #red
 - Supuestos de Modelo Estándar
   id:: 61986c0a-c73c-4efc-8d25-a4989c91fe8c
-	- Cancelación
-	  collapsed:: true
+	- [](#1.) Cancelación
 	  id:: 619971db-6483-4ae0-a832-e77a3f1464a9
+	  collapsed:: true
 		- A la Hora de decidir se elimina cualquier estado  del mundo que conlleva igual resultado independientemente de nuestra elección. Es necesario para expresar preferencias entre prospectos, Razón solo uno de los estados es realizable
-	- Dominio
+	- [](#2.)Dominio
 	  collapsed:: true
 		- Lo mismo que ((61986c10-888d-457b-8488-34c741a9bbbf))
-	- Extensionalidad
+	- [](#3.) Extensionalidad
 	  collapsed:: true
 		- La valoración y  la actitud frente a un objeto no cambia debido a como este sea descrito.
 			- Ejm:
 			  collapsed:: true
 				- Carne roja Orgánica
-	- Invarianza
+	- [](#4.) Invarianza
 	  id:: 619971f6-62bf-47ca-a1cf-eb0f11796938
 	  collapsed:: true
 		- Diferentes presentaciones de un mismo problema de elección no hace que cambie nuestra preferencia , a esto se le conoce como:
 			- Invarianza en la descripción
 			- Invarianza en el método de suscitación/Obtención de información [[Elicitación]]
-	- Con relación a probabilidades /Creencias
+	- [](#5.) Con relación a probabilidades /Creencias
 	  collapsed:: true
 		- [[Racionalidad]]  perfecta
 		  collapsed:: true
@@ -55,7 +55,6 @@
 		- Estimación de probabilidad bayesinana 
 		  collapsed:: true
 			- Asume que podemos calcular la  [[probabilidad bayesiana]]  y actualizarlaa a medida que se den determinados sucesos.
-	-
 -
 -
 -

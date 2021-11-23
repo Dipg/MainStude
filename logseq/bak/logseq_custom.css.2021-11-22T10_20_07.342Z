@@ -1,3 +1,4 @@
+@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
 
 
 .block-ref>div>span>span>span>div>.tag{

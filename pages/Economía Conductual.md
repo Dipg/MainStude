@@ -1,6 +1,6 @@
-# Unidad 1 ![ 📑](../assets/Unidad_I_-_Introducción_1637370795899_0.pdf) #yellow
-collapsed:: true
-Fundamentos de la economía experimental y del comportamiento (ECC)
+- # Unidad 1 ![ 📑](../assets/Unidad_I_-_Introducción_1637370795899_0.pdf) #yellow
+  collapsed:: true
+  Fundamentos de la economía experimental y del comportamiento (ECC)
 	- ## 1. 1 Economía como disciplina Experimental #red ((61993a92-3c67-4e6d-a4de-3637d9faee8c))
 	- ## 1. 2 Principios de la Economía Experimental #red
 	- ## 1.3 Economía del Comportamiento
@@ -92,6 +92,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 				  collapsed:: true
 					- Debido a efectos en el resultado que no se pueden aislar
 			- Conciliación
+			  collapsed:: true
 				- Disposición a unir conocimientos e información de diversas disciplinas para crear un marco de entendimiento
 		- Diferencias entre Economía Experimental y Economía del Comportamiento
 		- |**Economía del Comportamiento** | **Economía experimental**| 
@@ -101,8 +102,9 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 		- > No existe una relación necesaria entre economía conductual y la experimental
 		-
 		-
-# Unidad 2  #yellow
-	- ## Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
+- # Unidad 2  #yellow
+	- ## [](#1.) Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
+	  collapsed:: true
 		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
 		  collapsed:: true
 			- Preferencias
@@ -112,15 +114,15 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 			  collapsed:: true
 				- Son la probabilidad que damos a la ocurrencia de cada resultado, en base a la información que disponemos de que se de ese resultado.
 			- [[Racionalidad]]
-				-
 		- ¿Cuáles son los supuestos del [[modelo económico estándar]] ?
 		  collapsed:: true
 			- {{embed ((61986c0a-c73c-4efc-8d25-a4989c91fe8c))}}
 			- De acuerdo con los axiomas y supuestos descritos , somos:
 			  collapsed:: true
 				- Racionales
-		- ## 1. Sesgo cognitivo #yellow
+		- ## [](#1.) Sesgo cognitivo #yellow
 		  id:: 61985334-f1bd-466f-a97e-9543d114a293
+		  collapsed:: true
 			- ¿ Donde se presentan los sesgos cognitivos?
 			  collapsed:: true
 				- Antes de revisar los sesgos , debemos plantearnos cuales son los criterios que se postulan en la racionalidad y que se ven influenciados por estos segos
@@ -130,12 +132,14 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 			  collapsed:: true
 				- Es una interpretación errónea sistemática de la información disponible  a la hora de procesar pensamientos, hacer juicios de valor y ==tomar decisiones==
 			- Efectos #red
-				- Efecto dotación
+			  collapsed:: true
+				- Efecto dotación #green
+				  collapsed:: true
 					- Este efecto nos causa que tendemos a valorar más un objeto que poseemos frente a otro que todavía no es nuestro.  Nos cuesta mas despegarnos de las cosas con las que hemos creado un vinculo emocional asociado a la de propiedad.
 					- Esto quiere decir que damos utilidad a algo dependiendo de la posesión de aquello.
 					- Factor [[Psicología]] principal: aversión al riesgo
 					- Importancia dentro de la economía: La propiedad y los intercambios son ejes de la economía
-				- Efecto Marco
+				- Efecto Marco #green
 				  collapsed:: true
 					- Es un  [[sesgo cognitivo]]  en el cual las personas tienden a evitar los riegos , si las opciones se plantean en función de la ganancia, pero suelen ser mas arriesgadas , si el problema se plantea en forma que implique perdida.
 					- Ejemplo:
@@ -146,13 +150,13 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					- ![image.png](../assets/image_1637497709827_0.png)
 					- En esta ocasión se escogió la segunda opción
 					- Viola el supuesto ((619971f6-62bf-47ca-a1cf-eb0f11796938))
-				- Efecto Anclaje
+				- Efecto Anclaje #green
 				  collapsed:: true
 					- Es un  [[sesgo cognitivo]] debido al anclaje ya ajuste que provoca darle un mayor peso a la primera noticia, argumento o evidencia que se tiene sobre algo a la hora de tomar una decisión, de esta forma ajustando la respuesta del individuo hasta tener una respuesta final, usando esta primera impresión como ancla de su respuesta. Sesgando la respuesta final entorno a este ajuste o ancla inicial.
 					-
 					  id:: 619a437e-524a-4307-af41-bd6334f6012b
 					  link:: https://bit.ly/3nDh9BH
-				- Efecto gratis
+				- Efecto gratis #green
 				  collapsed:: true
 					- Le damos un mayor valor a las cosas cuando se las anuncia como "Gratis"
 			- Falacias #yellow
@@ -162,17 +166,17 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 				- Falacia del [[coste hundido]] #yellow
 				  collapsed:: true
 					- Es un ((61985334-f1bd-466f-a97e-9543d114a293)) que consiste en darle valor y esfuerzo a una inversión irrecuperable, algo que nunca va a volver, con la única razón de mantener a flote un programa, proyecto una decisión , por la expectativa de recuperar lo entregado (dinero, tiempo, etc.) y por el temor que nos inspira asumir la pérdida  de lo entregado.
-					-
-					-
 		- ## 2. Heurísticas, Sesgos y actualización Bayesiana  #yellow
+		  collapsed:: true
 			- ¿ Que son los heurísticos?
+			  collapsed:: true
 				- Los heurísticos son reglas generales y poco definidas que funcionan como “atajos” mentales para resolver problemas que paso a paso serían en extremo complejos. [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
-			- Heurística de disponibilidad
+			- Heurística de disponibilidad #green
 			  collapsed:: true
 				- Este sesgo nos genera que demos mayor probabilidad a un evento que es de fácil recordad. Esto pude generar que estimemos con mayor probabilidad la ocurrencia de eventos raros debido a que es lo primero que recordamos, pudiendo deberse esto a la publicidad que hayamos visto de ese evento
 				- En pocas palabras nuestra mente utiliza ejemplos inmediatos, los que primero se te vienen a la cabezas , para calcular las probabilidades de algo que este pasando.
 				- Por ejemplo si quiero una gaseosa; en lo primero que pienso es Cocacola, como la que mayor probabilidad de bienestar o satisfacción me puede dar ante esa necesidad
-			- Heurística de representatividad
+			- Heurística de representatividad #green
 			  collapsed:: true
 				- Se basa en tomar decisiones a través de juicios en los que encasillamos la situación en un  categoría u otro según se parezca o sea representativa de esa categoría debido a las características que posee.
 				- Danos la probabilidad de ocurrencia de B con respecto al grado de relación o similaridad que guarde con A, sin tomar en cuenta las ocurrencias por separado de B
@@ -180,7 +184,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					- Si un producto es caro , solemos encasillarlo como producto de buena calidad, y de la misma forma si algo es de buena calidad solemos encasillarlo como algo caro
 				-
 				  link:: [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
-			- Sesgo de Frecuencia Base
+			- Sesgo de Frecuencia Base #green
 			  collapsed:: true
 				- Solemos dar mas peso a la información de un caso en particular de un evento que al información  del mismo evento, ósea la información base o  general.
 				- De este modo daremos la probabilidad de un evento en base a un caso en particular que a la  probabilidad general o base de ese evento
@@ -188,7 +192,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 				- Ejemplo:[[Paradoja del Falso Positivo]]
 				-
 				  link:: [🔗](https://psicologiaymente.com/inteligencia/falacia-frecuencia-base)
-			- La ley de los pequeño números
+			- La ley de los pequeño números #green
 			  collapsed:: true
 				- Sujetos tienden a pensar que una pequeña muestra es representativa de la sociedad
 				- Se cree que una muestra se distribuye de la misma forma que la población, por lo tanto es valido e igual  inferir resultados de una muestra de 7, 70 o 7000 observaciones de una muestra hacia la población, debido a que a cada muestra se le aplica principios de poblaciones infinitas sin distinció.
@@ -216,7 +220,7 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					- Eventos aleatorios: Sesgos de parte de administrador
 					- Probabilidades cambiantes. Puede favorecer a un jugador
 			- Sesgos de auto evaluación
-				- 🌱 Exceso de seguridad
+				- 🌱 Exceso de seguridad #green
 				  collapsed:: true
 					- Sobreestimación
 					  collapsed:: true
@@ -233,16 +237,16 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 						- Ejm:
 						  collapsed:: true
 							- Sobre estimación de la precisión en inversores
-				- 🌱 Falta de seguridad
+				- 🌱 Falta de seguridad #green
 				  collapsed:: true
 					- Subestimación de confianza tanto en tareas difíciles con bajan probabilidad de exito, como en tareas fáciles, con alta probabilidad de éxito
 					- Eso debido a la falta de información de sus habilidades y su probabilidad de éxito, estimadolas así de forma regresiva las propias  habilidades y mucho mas regresivas la de los otros
-				- 🌱 Sesgo de autoservicio
+				- 🌱 Sesgo de autoservicio #green
 				  collapsed:: true
 					- Conjunto de diferentes sesgos de creencias, en los cuales el individuo se atribuye el éxito a habilidades y destrezas propias y atribuye el fracaso a factores externos.
 					- Tendencia a modelar crecías y juicios con el objetivo  de mejorar una opinión propia
 					- Este error es una función positiva de la utilidad
-				- 🪴 Sesgo de Poyección
+				- 🪴 Sesgo de Poyección #yellow
 				  collapsed:: true
 					- Se basa en creer que nuestra utilidad futura dependerá de los mismos factores de los que depende hoy, esto quiere decir que nuestras preferencias futuras serán las mismas o muy cercanas a las actuales
 					- Estudios concluyen que aproximadamente los consumidores predicen los gustos futuros  aproximadamente entre los actuales y los futuros
@@ -255,10 +259,10 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 						- ((619a8015-f3e8-4072-894b-f7c829583f36))
 						- Donde:
 							- ((619a804d-769f-4ce9-8003-66266bf83c79))
-		- ## 3 Causas de la irracionalidad  #yellow
+		- ## [](#3.)Causas de la irracionalidad  #yellow
 		  collapsed:: true
 			- Baumeister(2001) ha identificado 5 causas del comportamiento irracional o también conocidas como comportamientos contraproducentes
-			- Angustia emocional
+			- 🌱 [](#1.) Angustia emocional
 			  collapsed:: true
 				- ¿Cual es la posición del [[modelo económico estándar]] frente a las emociones?
 				  collapsed:: true
@@ -275,23 +279,23 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 							- Cuando una emoción nos genera compromiso para llevar a cabo ciertas actividades, en circunstancias en las que un estado racional no lo haría
 							- 🌱 [[Efecto reputación]]
 								- El mismo que sirve para mantener nuestro interés a largo plazo
-				- Memoria
+				- 🌱 Memoria
 				  collapsed:: true
 					- Aquellas emociones tanto positivas como negativas no suelen permanecer mucho tiempo en un individuo hasta que este recupere su estado "neutro"
 					- Sin embargo solemos creer que estas emociones se quedaran con nosotros mucho mas tiempo del que realmente es, es decir sobreestimamos el tiempo en el que sentiremos las emociones, [[sesgo de durabilidad]].
 					- 🌱 Implicaciones
 						- Para Políticas de felicidad (bienestar subjetivo )
-				- 🌱 Disonancia cognitiva
+				- 🌱 Disonancia cognitiva #green
 				  collapsed:: true
 					- Es el conflicto mental que se da cuando nuestras creencias entran en conflicto con nuestras actitudes o con otras creencias que tenemos generándonos así incomodidad.
 					- También se puede dar cuando nos rehusamos a cambiar nuestras creencias frente a evidencia que las contradice
 					- Esta incomodidad se resuelve con acciones irracionales
-			- 🌱 Autoestima amenazada
+			- 🌱 [](#2.) Autoestima amenazada
 			  collapsed:: true
 				- Si la Autoestima se ve amenazada, esto puede afectar a  al proceso de toma de decisiones
 				- La baja auto estima puede provocar comportamiento contraproducente, irracional, por ejemplo los desordenes alimenticios o el abuso del alcohol
 				- Sin embargo la auto estima alta también puede generar comportamiento contraproducente, como el abuso de las drogas.
-			- 🌱 Falla de autorregulación
+			- 🌱 [](#3.) Falla de autorregulación
 			  collapsed:: true
 				- ¿Qué es la autorregulación?
 				  collapsed:: true
@@ -309,12 +313,12 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 					- Personalidad de corto plazo
 					  collapsed:: true
 						- Impulsivo- Maximiza la experiencia inmediata
-			- 🌱 Fatiga de decisión
+			- 🌱 [](#4.) Fatiga de decisión
 			  collapsed:: true
 				- Existe un costo psicológico de tomar decisiones
 				- La toma de decisión puede llegar a ser compleja, esto puede llevar a tomar malas decisiones, pues se a reducido nuestra capacidad de toma de decisiones optimas
 				- Esta es una de las razones por las que las personas son criaturas de hábitos, debido a que esto evita la necesidad de gastar recursos escasos al tomar decisiones.
-			- 🌱 Rechazo y pertenencia
+			- 🌱 [](#5.) Rechazo y pertenencia
 			  collapsed:: true
 				- El sentido de pertenencia es innato
 				- Es más fuerte que el deseo de autoestima
@@ -322,13 +326,12 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 				- Ejm: 
 				  collapsed:: true
 					- crear el sentido de pertenencia en mujeres ayuda a incrementar permanencia y representación
-	- ## Teoría Prospectiva ![📑](../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf) ![📜](../assets/Dialnet-TeoriaProspectiva-65981_(1)_1637533445262_0.pdf)
+	- ## [](#2.) Teoría Prospectiva ![📑](../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf) ![📜](../assets/Dialnet-TeoriaProspectiva-65981_(1)_1637533445262_0.pdf) #yellow
 	  id:: 619acd7b-c30d-4687-b87f-c7d1ad7bb6a3
 	  collapsed:: true
 		- Es un modelo alternativo para que explica la toma de decisiones individuales bajo riesgo. Esta teoría fue desarrollada para alternativas simples con resultados monetarios y probabilidades dadas.
 		- La teoría prospectiva distingue dos fases en el proceso de elección : una fase de preparación o edición y una subsecuente de evaluación.
 		- [](#1.) Fase de Edición
-		  collapsed:: true
 			- Aplicación de diferentes operaciones para transformar los resultados y probabilidades asociadas  a los prospectos disponibles / ofertados.
 			- [](#1.) Codificación
 			  id:: 619adee6-d652-4d62-917f-a9d294c838ab
@@ -376,7 +379,14 @@ Fundamentos de la economía experimental y del comportamiento (ECC)
 			- Así como de manera gráfica:
 			- ![image.png](../assets/image_1637548323013_0.png){:height 343, :width 448}
 			- En eje x la probabilidad $p$ y en el eje y la ponderación $\pi(p)$
-	- ## Preferencias Sociales ![ 📑](../assets/Unidad_II_-_Preferencias_sociales_1637442525025_0.pdf) #yellow
+		- [🎥 0 ](https://www.youtube.com/watch?v=upVbs5j15mA&t=308s)  [🎥 1 ](https://www.youtube.com/watch?v=PqUZ9H_XOb8) [🎥 2 ](https://www.youtube.com/watch?v=jS1kjXu2q3Y)
+		  background-color:: #793e3e
+	- ## [](#3.) Preferencias Sociales ![ 📑](../assets/Unidad_II_-_Preferencias_sociales_1637442525025_0.pdf) #red
+		- [](#3.1.) Juego del Ultimátum
+		- [](#3.2.) Juego del Dictador
+		- [](#3.3.) Juego de Confianza/reciprocidad
+		- [](#3.4.)  Bienes públicos
+		-
 	-
 -
 -

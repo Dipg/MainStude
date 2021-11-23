@@ -8,7 +8,6 @@
 	- Maximizan: Eligen el Optimo
 - ¿ Cueles son los 4 criterios o actitudes de la racionalidad?
   id:: 61993171-c97f-46cb-a0bf-b2d27fbff677
-  collapsed:: true
 	-
 	  1. Actitudes y preferencias en linea con las reglas básicas de lógica y probabilidad
 	-
