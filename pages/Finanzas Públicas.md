@@ -1,4 +1,5 @@
-# Unida 1 Economía del sector Público ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
+- # Unida 1 Economía del sector Público ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
+  collapsed:: true
 	- Objetivos de la política fiscal #red
 	  collapsed:: true
 		- ¿Cuáles son los objetivos de la política fiscal?
@@ -99,17 +100,137 @@
 			  collapsed:: true
 				- Divido la columna de alada por la columna que deseo encontrar y obtengo la celda de la columna que busco, de ogual forma elijo en la columna la que menor sea
 	- Fallas del mercado
+	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
+		  collapsed:: true
 			- Poder de mercado
+			  collapsed:: true
 				- Monopolio
-					- Img=CMg
-					- Vendo menos y cobro mas
+				  collapsed:: true
+					- {{embed ((619d1fd5-eb00-418b-b85e-5d724d64e93f))}}
 			- Información Incompleta
+			  collapsed:: true
+				- Riesgo Moral
+				  collapsed:: true
+					- La parte cuyas acciones no se observan pueden influir en la probabilidad o en la magnitud relacionado con un acontecimiento.
+				- Selección adversa
+				  collapsed:: true
+					- Se venden productos de diferente calidad a un mismo precio, debido a la información asimétrica, vendiendo así muchos productos de baja calidad  y  pocos de alta calidad
+				-
 			- Externalidades
+			  collapsed:: true
+				- En producción
+					- Positiva
+					  collapsed:: true
+						- {{youtube https://www.youtube.com/watch?v=LNI04miAEgQ}}
+					- Negativa
+					  collapsed:: true
+						- {{youtube https://www.youtube.com/watch?v=ZAlxvWNnMY8&t=277s}}
+				- En Consumo
+				  collapsed:: true
+					- Negativa
+					  collapsed:: true
+						- {{youtube https://www.youtube.com/watch?v=_JZ1CpzHDcg}}
+						- {{youtube-timestamp 119}}  La curva de Consumo se desplaza hacia la izquierda
+					- Positiva
+					  collapsed:: true
+						- {{youtube https://www.youtube.com/watch?v=JP-9nQr3mek}}
+						- {{youtube-timestamp 183}}  Movimiento de la Curva de beneficio, hacia la derecha
 			- Bienes Públicos
+			  collapsed:: true
+				- No- Exclusivos
+				  collapsed:: true
+					- No se pude excluir a ningún consumidor de su consumo
+				- No-Rivales
+				  collapsed:: true
+					- El consumo del bien no reduce la cantidad disponible de consumo para otros consumidores
+				- Bien público Puro
+				  collapsed:: true
+					- Cuado el Cmg de suministrar a una persona más , es cero
+					- ((619d2e19-d79b-4109-9c5b-4c3925f431b3))
 				- Free Rider
 				  collapsed:: true
 					- Polizón , aprovecha los bienes públicos sin pagar por ellos
+			- Bienes Privados Suministrados por el Estado
+			  collapsed:: true
+				- Cuando en CMg de suministrar a más personas es alto , Ej. Educación
+				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
+			- Mecanismos para racionalizar los bienes Públicos
+			  collapsed:: true
+				- ¿Cuándo se hace cargo el estado?
+				  collapsed:: true
+					- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
+				- Tasa de Uso
+				- Precio Uniforme
+				- Colas
+	- Demanda Agregada de un bien público  en función de demandas individuales
+	  collapsed:: true
+		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
+		- Esto es sumo todas las demandas inversas
+	- Tipo de tributación, 
+	  collapsed:: true
+		- Tributación Uniforme
+			- Precio del Impuesto
+			-
+			  $$1/N$$
+			- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
+			-
+			  $$\frac{G}{N ^{ 2}}$$
+			- Mayor es el efecto renta,  los ricos usan mas bienes públicos
+			-
+		- Tributación Proporcional
+		  collapsed:: true
+			- Todos pagan el mismo porcentaje de la renta
+			-
+			  $$Renta \,Total : N\overline Y$$
+			-
+			  $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
+			- Se supone que el ingreso es igual al gasto
+			-
+			  $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
+			- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
+			-
+			  $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
+			- Efecto sustitución es mayor al efecto renta
+		- Tributación Progresiva
+		  collapsed:: true
+			- la deda tributaria aumenta mas que proporcionalmente,
+			- Ej.
+			- Si  mi renta es de 1000 → pago 100 ;
+			- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
+	- Problema de agregación de preferencias
+		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
+		- Las personas prefieren un bien público dependiendo de su nivel de renta así como del sistema impositivo
+		- Ante esto se presentan algunos modos de elección que representan a al colectividad
+		- [](#1.)  Elección por mayoría
+			- La paradoja del voto , no se lleva a acabo dentro de un mismo grupo
+	- Teorema de Imposibilidad de Arrow
+	  collapsed:: true
+		- Que propone un mecanismo de política ideal posee 4 caracteristicas
+			- [](#1.)  Transitividad
+			- [](#2.) Decisiones no dictatoriales
+			- [](#3.) Independencia de opciones relevantes
+			- [](#4.) Dominio no restringido
+	- Preferencias unimodales
+	  collapsed:: true
+		- Existe cuando existe un máximo preferido
+	- Votante Mediano
+	  collapsed:: true
+		- Toma en consideración las preferencias en promedio que tienen los individuos
+		- menor beneficio , pero también menor costo
+	- Equilibrio de Lindhal
+	  collapsed:: true
+		- En bienes Públicos el equilibrio es la intersección de la demanda agregada y el CMg
+		- Es eficiente en el sentido de Pareto
+		- Problema
+			- Información oculta por parte de los consumidores
+	-
+	-
+	-
+	-
+	-
+	-
+	-
 -
 -
 -
