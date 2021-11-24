@@ -11,7 +11,7 @@
 - Reportes Consolidados
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=UPx7DB_F1lo}}
-# 2 anlsisi d
+# 2 Análisis de Datos
 - Tablas de una entrada y dos entradas
 - Escenarios
   collapsed:: true
