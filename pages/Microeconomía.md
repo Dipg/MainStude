@@ -76,6 +76,7 @@
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
+  collapsed:: true
 	- Se da cuando:
 	-
 	  $$IMg=CMg$$
@@ -96,6 +97,3 @@
 			- {{youtube https://www.youtube.com/watch?v=fpgCLu380_A&t=114s}}
 				- {{youtube-timestamp 303}} Comparación entre  Competencia perfecta vs Monopolio
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
--
--
--
