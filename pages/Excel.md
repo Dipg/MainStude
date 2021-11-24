@@ -1,5 +1,6 @@
 # [](#1.) Manejo de lista de datos
 - Filtro Avanzado
+	- https://onedrive.live.com/?authkey=%21ACqdORu04Ug8foc&cid=D4C8613E4F1EC400&id=D4C8613E4F1EC400%2159015&parId=D4C8613E4F1EC400%2159009&o=OneUp
 - Tablas dinámicas
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=gsxCopOjGZo}}
@@ -21,6 +22,7 @@
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Solver
+  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=pDJxCG76BaM}}
 	- {{youtube https://www.youtube.com/watch?v=XTX_5Kwg2DY}}
 	- {{youtube https://www.youtube.com/watch?v=dLw8ZrWT8pc}}
