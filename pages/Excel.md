@@ -5,3 +5,4 @@
 - Gráficos diná,icos
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=ghyGNJKjPsQ}}
+- Subtota
