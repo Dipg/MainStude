@@ -3,5 +3,7 @@
 	- Supuesto de Homocedasticidad
 	- Supuesto de Homocedasticidad
 	- uestras aleatorias e independientes
+	- Contrastes de signifiacion
+	-
 	- Criterio de Bayes
 	- Discriminante de Fisher
