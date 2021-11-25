@@ -22,6 +22,6 @@
 	- ¿Cómo ayuda la evaluación de impacto para decidir sobre políticas?
 	  collapsed:: true
 		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
-	- ¿Cuándo se debe evaluar un programa?
+	- ¿Cuales son evaluar un programa?
 		- [](#1.)  Inovador
 -
