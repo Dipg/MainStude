@@ -22,6 +22,7 @@
 	- ¿Cómo ayuda la evaluación de impacto para decidir sobre políticas?
 	  collapsed:: true
 		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
-	- ¿Cuales son las justificaciones para evaluar un programa?
+	- ¿Cuáles son las justificaciones para evaluar un programa?
 		- [](#1.)  Inovador
+		- [](#2.)
 -
