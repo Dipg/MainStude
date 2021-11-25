@@ -3,5 +3,5 @@
 	  collapsed:: true
 		- Es realizar exámenes periódicos y objetivos
 	- ¿Para que se usa?
-		- Para responder preguntas especificas
+		- Para responder preguntas especificas en
 -
