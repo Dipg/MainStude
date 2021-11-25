@@ -16,5 +16,6 @@
 		- Es evaluar los cambios en el bienestar las personas que pueden atribuirse a un proyecto programa particular
 	- Contrafractual
 		- ¿Qué es un Contrafactual?
-		- ¿ Que se usa en lugar de un contrafractual?
+		- ¿ Que se usa en lugar de un contrafactual?
+			- Grupo de COnparaci
 -
