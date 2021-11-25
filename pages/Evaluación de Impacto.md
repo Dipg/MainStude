@@ -20,5 +20,5 @@
 		- ¿ Que se usa en lugar de un contrafactual?
 			- Grupo de Comparación
 	- ¿Como ayuda la evaluación de impacto para decidir dobre políticas?
-		- Podemos saber s
+		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
 -
