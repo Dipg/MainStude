@@ -1,3 +1,4 @@
 - Análisis descimiéntate
-	- Supuestos de Normalidad
+	- Supuestos de Normalidad Multivariante
+	-
 	-
