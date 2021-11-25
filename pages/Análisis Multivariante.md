@@ -1,5 +1,6 @@
 - Análisis descimiéntate
 	- Supuestos de Normalidad Multivariante
 	- Supuesto de Homocedasticidad
+	- Supesto de Homocedasticiadd
 	- Criterio de Bayes
 	- Discriminante de Fisher
