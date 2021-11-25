@@ -44,5 +44,5 @@
 		- Información de linea base
 	- Evaluación retrospectiva
 		- Evalúa el programa después de su implementació
-		- Genera grupos de tratamietno
+		- Genera grupos de tratamiento y de comparación ex post
 -
