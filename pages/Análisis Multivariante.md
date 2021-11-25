@@ -1,2 +1,3 @@
 - Análisis descimiéntate
+	- Supuestos de Normalidad
 	-
