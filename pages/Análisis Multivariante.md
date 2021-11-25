@@ -4,6 +4,7 @@
 	- Supuesto de Homocedasticidad
 	- uestras aleatorias e independientes
 	- Contrastes de signifiacion
+	- Text de Box
 	-
 	- Criterio de Bayes
 	- Discriminante de Fisher
