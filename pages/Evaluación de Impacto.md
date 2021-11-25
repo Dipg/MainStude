@@ -3,5 +3,5 @@
 	  collapsed:: true
 		- Es realizar exámenes periódicos y objetivos
 	- ¿Para que se usa?
-		- Paar
+		- Para responder preguntas especificas
 -
