@@ -33,6 +33,6 @@
 		  collapsed:: true
 			- Iniciativa emblemática que cubre a un gran numero de personas, o genera un ahorro considerable
 		- [](#4.) No comprobado
-			-
+			- Se sabe muy poco sobre su efectividad
 		- [](#5.) Influyente
 -
