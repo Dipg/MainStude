@@ -40,7 +40,7 @@
 	- Evaluación prospectiva
 		- Se realiza al mismo tiempo que se diseña el programa
 		- Resultados mas solidos y creibles
-		- MAyor pro
+		- Mayo probabilidad de generar contrafactuales validos
 	- Evaluación retrospectiva
 		-
 -
