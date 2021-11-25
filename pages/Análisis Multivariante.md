@@ -6,5 +6,6 @@
 	- Contrastes de signifiacion
 	- Text de Box
 	- etha al cuadrado Coeficiente de determinacion
+	- Probabilidades de error
 	- Criterio de Bayes
 	- Discriminante de Fisher
