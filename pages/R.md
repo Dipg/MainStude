@@ -1,5 +1,6 @@
-- Instalr Paquetes
+- Instalar Paquetes
 - ```r
   			
   ```
+-
 -
