@@ -24,11 +24,13 @@
 		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
 	- ¿Cuáles son las justificaciones para evaluar un programa?
 		- [](#1.)  Inovador
+		  collapsed:: true
 			- Nuevo enoque
 		- [](#2.) Replicable
+		  collapsed:: true
 			- Permite Ampliarse y aplicar a una situación diferente
 		- [](#3.)  Estratégicamente pertinente
-			- Iniciativa emblematica que cubre a un gran nuemro de personas, o genera un a
+			- Iniciativa emblemática que cubre a un gran numero de personas, o genera un ahorro considerable
 		- [](#4.) No comprobado
 		- [](#5.) Influyente
 -
