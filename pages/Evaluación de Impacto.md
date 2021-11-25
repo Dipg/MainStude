@@ -38,6 +38,6 @@
 		- [](#5.) Influyente
 			- Sus resultados serán fundamentales en políticas
 	- Evaluación prospectiva
-		- Se realiza al mismo tiempo q
+		- Se realiza al mismo tiempo que se diseña el programa
 	- Evaluación retrospectiva
 -
