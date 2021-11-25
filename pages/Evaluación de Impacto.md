@@ -46,7 +46,7 @@
 		- Evalúa el programa después de su implementació
 		- Genera grupos de tratamiento y de comparación ex post
 		- Depende del contexto y nunca esta garantizada
-		- Suelen usar métodos cuasi experimentales
+		- Suelen usar métodos cuasiexperimentales
 		- Dependen de mayores suposiciones
 		- Generan evidencias mas discutibles
 		-
