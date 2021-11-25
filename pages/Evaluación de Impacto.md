@@ -48,5 +48,6 @@
 		- Depende del contexto y nunca esta garantizada
 		- Suelen usar métodos cuasi experimentales
 		- Dependen de mayores suposiciones
+		- Generan evidencias mas discutibles
 		-
 -
