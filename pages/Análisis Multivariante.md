@@ -1,4 +1,4 @@
 - Análisis descimiéntate
 	- Supuestos de Normalidad Multivariante
-	-
+	- Supuesto de Homocedasticidad
 	-
