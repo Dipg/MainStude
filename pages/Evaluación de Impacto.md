@@ -25,5 +25,7 @@
 	- ¿Cuáles son las justificaciones para evaluar un programa?
 		- [](#1.)  Inovador
 		- [](#2.) Replicable
-		- [](#3.)
+		- [](#3.)  Estratégicamente pertinente
+		-
+		  -
 -
