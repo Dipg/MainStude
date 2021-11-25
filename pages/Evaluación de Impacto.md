@@ -23,6 +23,7 @@
 	  collapsed:: true
 		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
 	- ¿Cuáles son las justificaciones para evaluar un programa?
+	  collapsed:: true
 		- [](#1.)  Inovador
 		  collapsed:: true
 			- Nuevo enoque
