@@ -1,4 +1,4 @@
-# Unidad 1 ![📑] (../assets/Unidad1_Impact_Evaluation_1637839735097_0.pdf) ![Handbook on Impact.pdf](../assets/Handbook_on_Impact_1637851075755_0.pdf)
+# Unidad 1 ![📑](../assets/Unidad1_Impact_Evaluation_1637839735097_0.pdf)
 	- ¿Qué es evaluar?
 	  collapsed:: true
 		- Es realizar exámenes periódicos y objetivos
@@ -49,5 +49,5 @@
 		- Suelen usar métodos cuasiexperimentales
 		- Dependen de mayores suposiciones
 		- Generan evidencias mas discutibles
-		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales (como los experimentos )
+		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales (como los experimeintos )
 -
