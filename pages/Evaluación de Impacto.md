@@ -38,6 +38,6 @@
 		- [](#5.) Influyente
 			- Sus resultados serán fundamentales en políticas
 	- Evaluación prospectiva
-	-
+		- Se realiza al mismo tiempo q
 	- Evaluación retrospectiva
 -
