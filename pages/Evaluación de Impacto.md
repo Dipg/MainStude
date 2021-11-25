@@ -41,7 +41,7 @@
 		- Se realiza al mismo tiempo que se diseña el programa
 		- Resultados mas solidos y creibles
 		- Mayor probabilidad de generar contrafactuales validos
-		- Informaciónde linea base
+		- Información de linea base
 	- Evaluación retrospectiva
 		-
 -
