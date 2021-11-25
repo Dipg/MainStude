@@ -17,5 +17,5 @@
 	- Contrafractual
 		- ¿Qué es un Contrafactual?
 		- ¿ Que se usa en lugar de un contrafactual?
-			- Grupo de COnparaci
+			- Grupo de Comparación
 -
