@@ -26,6 +26,6 @@
 		- [](#1.)  Inovador
 		- [](#2.) Replicable
 		- [](#3.)  Estratégicamente pertinente
-		-
-		  -
+		- [](#4.) No comprobado
+		- [](#5.)
 -
