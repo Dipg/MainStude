@@ -14,6 +14,7 @@
 	- ¿ Que es la Evaluación de Impacto?
 	  collapsed:: true
 		- Es evaluar los cambios en el bienestar las personas que pueden atribuirse a un proyecto programa particular
-	- ¿Qué es un Contrafratulal
+	- Contrafractual
+	- ¿Qué es un Contrafactual
 	- ¿ Que se usa en lugar de un contrafractual?
 -
