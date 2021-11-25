@@ -10,4 +10,4 @@
 	- Criterio de Bayes
 	- Discriminante de Fisher
 	- Calculo de la probabilidad de error
-	-
+	- \lambda da de Wilks
