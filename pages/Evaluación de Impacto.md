@@ -46,4 +46,5 @@
 		- Evalúa el programa después de su implementació
 		- Genera grupos de tratamiento y de comparación ex post
 		- Depende del contexto y nunca esta garantizada
+		-
 -
