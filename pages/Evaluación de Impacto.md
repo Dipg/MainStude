@@ -6,5 +6,7 @@
 		- Para responder preguntas especificas en relación al diseño , la ejecución y los resultados
 		- ¿Qué preguntas responde?
 			- [](#1.)  Descriptiva → ¿Que esta ocurriendo?
-			- [](#2.) → ¿ Lo que esta ocuririendo es lo que deberia ocurrir?
+			- [](#2.) → ¿ Lo que esta ocurriendo es lo que debería ocurrir?
+			-
+	-
 -
