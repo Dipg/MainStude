@@ -5,6 +5,6 @@
 	- uestras aleatorias e independientes
 	- Contrastes de signifiacion
 	- Text de Box
-	- etha al cuadrado
+	- etha al cuadrado Coeficiente de determinacion
 	- Criterio de Bayes
 	- Discriminante de Fisher
