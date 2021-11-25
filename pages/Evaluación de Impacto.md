@@ -43,5 +43,5 @@
 		- Mayor probabilidad de generar contrafactuales validos
 		- Información de linea base
 	- Evaluación retrospectiva
-		- Evalua el programa después de su implejmentacion
+		- Evalúa el programa después de su implementación
 -
