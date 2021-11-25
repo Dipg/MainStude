@@ -9,4 +9,4 @@
 	- Probabilidades de error
 	- Criterio de Bayes
 	- Discriminante de Fisher
-	-
+	- Calculo de la probabilidad de error
