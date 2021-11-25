@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "619fa049-2c7e-4aad-bbeb-687bacdfd5ce", :page 74, :position {:bounding {:x1 233.90625, :y1 111.953125, :x2 695.1372680664062, :y2 154.953125, :width 811, :height 1158.5714285714287}, :rects ({:x1 233.90625, :y1 111.953125, :x2 695.1372680664062, :y2 154.953125, :width 811, :height 1158.5714285714287}), :page 74}, :content {:text "4. Propensity Score Matching"}, :properties {:color "yellow"}}]}
