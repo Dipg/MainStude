@@ -49,5 +49,5 @@
 		- Suelen usar métodos cuasiexperimentales
 		- Dependen de mayores suposiciones
 		- Generan evidencias mas discutibles
-		- Los diseños de investigación cuasiexperimentales contrastan hipótesisi causales
+		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales ()
 -
