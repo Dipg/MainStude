@@ -35,5 +35,5 @@
 		- [](#4.) No comprobado
 			- Se sabe muy poco sobre su efectividad
 		- [](#5.) Influyente
-			- Sus resultados seran funadmentales en politicas
+			- Sus resultados serán fundamentales en políticas
 -
