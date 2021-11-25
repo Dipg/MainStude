@@ -19,6 +19,7 @@
 		- ¿Qué es un Contrafactual?
 		- ¿ Que se usa en lugar de un contrafactual?
 			- Grupo de Comparación
-	- ¿Como ayuda la evaluación de impacto para decidir dobre políticas?
+	- ¿Cómo ayuda la evaluación de impacto para decidir sobre políticas?
+	  collapsed:: true
 		- Podemos saber si un programan es efectivo comparado con la ausencia del mismo?
 -
