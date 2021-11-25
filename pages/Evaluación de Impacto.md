@@ -30,7 +30,9 @@
 		  collapsed:: true
 			- Permite Ampliarse y aplicar a una situación diferente
 		- [](#3.)  Estratégicamente pertinente
+		  collapsed:: true
 			- Iniciativa emblemática que cubre a un gran numero de personas, o genera un ahorro considerable
 		- [](#4.) No comprobado
+			-
 		- [](#5.) Influyente
 -
