@@ -7,6 +7,6 @@
 		- ¿Qué preguntas responde?
 			- [](#1.)  Descriptiva → ¿Que esta ocurriendo?
 			- [](#2.) → ¿ Lo que esta ocurriendo es lo que debería ocurrir?
-			-
+			- [](#3.)
 	-
 -
