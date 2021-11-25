@@ -47,4 +47,6 @@
 		- Genera grupos de tratamiento y de comparación ex post
 		- Depende del contexto y nunca esta garantizada
 		- Suelen usar métodos cuasi experimentales
+		- Dependen de mayores suposiciones
+		-
 -
