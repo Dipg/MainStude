@@ -12,6 +12,7 @@
 				- ¿ Un que preguntas se centra la evolución de resultados ?
 					- Se centra en las preguntas 1 y 2
 	- ¿ Que es la Evaluación de Impacto?
-		- Es evaluar los cambios en el bieneastar las personas que pueden atribuirse a un proyecto pprograma oarticuar
+	  collapsed:: true
+		- Es evaluar los cambios en el bienestar las personas que pueden atribuirse a un proyecto programa particular
 	-
 -
