@@ -5,6 +5,7 @@
 	- ¿Para que se usa?
 		- Para responder preguntas especificas en relación al diseño , la ejecución y los resultados
 		- ¿Qué preguntas responde?
+		  collapsed:: true
 			- [](#1.)  Descriptiva → ¿Que esta ocurriendo?
 			- [](#2.) Normativas→ ¿ Lo que esta ocurriendo es lo que debería ocurrir?
 			- [](#3.)  Sobre causas y efectos → ¿ Que diferencia en los resultados genero la intevención?
