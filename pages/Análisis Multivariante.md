@@ -2,5 +2,6 @@
 	- Supuestos de Normalidad Multivariante
 	- Supuesto de Homocedasticidad
 	- Supuesto de Homocedasticidad
+	-
 	- Criterio de Bayes
 	- Discriminante de Fisher
