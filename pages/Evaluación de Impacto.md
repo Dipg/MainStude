@@ -12,6 +12,6 @@
 				- ¿ Un que preguntas se centra la evolución de resultados ?
 					- Se centra en las preguntas 1 y 2
 	- ¿ Que es la Evaluación de Impacto?
-		- Es evluar los cam
+		- Es evluar los cambios en el binestarde las personas que pueden atribuirse
 	-
 -
