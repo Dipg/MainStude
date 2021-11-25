@@ -28,7 +28,7 @@
 		- [](#2.) Replicable
 			- Permite Ampliarse y aplicar a una situación diferente
 		- [](#3.)  Estratégicamente pertinente
-			- Iniciativa emblematica
+			- Iniciativa emblematica que cubre a un gran nuemro de personas
 		- [](#4.) No comprobado
 		- [](#5.) Influyente
 -
