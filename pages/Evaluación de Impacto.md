@@ -26,7 +26,7 @@
 		- [](#1.)  Inovador
 			- Nuevo enoque
 		- [](#2.) Replicable
-			-
+			- Permite Ampliarse y aplicar a
 		- [](#3.)  Estratégicamente pertinente
 		- [](#4.) No comprobado
 		- [](#5.) Influyente
