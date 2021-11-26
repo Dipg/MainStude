@@ -51,7 +51,7 @@
 		- Dependen de mayores suposiciones
 		- Generan evidencias mas discutibles
 		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales (como los experimeintos )
-# Unidad 2 [📝]
+# Unidad 2 [📝](61a0425b-a280-45ef-8d7e-bd4614cb130b)
 - ((61a04241-8f3e-4454-874b-970517e51ebf))
 # Unidad 3 [📝](619fa0a9-c7e8-46ae-af9a-788d35db006c)
 	- ((61a041f0-9b95-40e3-879c-63d092a1e89d))
