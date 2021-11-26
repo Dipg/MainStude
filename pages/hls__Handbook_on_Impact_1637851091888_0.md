@@ -43,3 +43,9 @@ file-path:: ../assets/Handbook_on_Impact_1637851091888_0.pdf
   id:: 61a042a0-d760-4518-8a53-5066c4324afb
   hl-type:: area
   hl-stamp:: 1637892767352
+- [:span]
+  ls-type:: annotation
+  hl-page:: 238
+  id:: 61a042b6-83bf-4378-bced-ee3099dbe3d6
+  hl-type:: area
+  hl-stamp:: 1637892789367
