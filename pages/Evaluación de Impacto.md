@@ -53,7 +53,6 @@
 		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales (como los experimeintos )
 # Unidad 2 [📝](61a0425b-a280-45ef-8d7e-bd4614cb130b)
 	- Ejercicios
-	  collapsed:: true
 		- ((61a04241-8f3e-4454-874b-970517e51ebf))
 		- ((61a042a0-d760-4518-8a53-5066c4324afb))
 # Unidad 3 [📝](619fa0a9-c7e8-46ae-af9a-788d35db006c)
