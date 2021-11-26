@@ -52,7 +52,8 @@
 		- Generan evidencias mas discutibles
 		- Los diseños de investigación cuasiexperimentales contrastan hipótesis causales (como los experimeintos )
 # Unidad 2 [📝](61a0425b-a280-45ef-8d7e-bd4614cb130b)
-- ((61a04241-8f3e-4454-874b-970517e51ebf))
+- Ejercicios
+	- ((61a04241-8f3e-4454-874b-970517e51ebf))
 - ((61a042a0-d760-4518-8a53-5066c4324afb))
 # Unidad 3 [📝](619fa0a9-c7e8-46ae-af9a-788d35db006c)
 	- Ejercicios
@@ -61,7 +62,7 @@
 # Unidad 4 ![​📝 ](619fa0c5-d175-43cc-9167-74b765901e22)
 	- Ejercicios
 		- ((61a0421f-d475-45fa-ab4a-aa6fdb71cc02))
-	- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
+		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 -
 -
 -
