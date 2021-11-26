@@ -25,3 +25,7 @@ file-path:: ../assets/Handbook_on_Impact_1637851091888_0.pdf
   ls-type:: annotation
   hl-page:: 28
   id:: 61a0425b-a280-45ef-8d7e-bd4614cb130b
+- Chapter 2
+  ls-type:: annotation
+  hl-page:: 238
+  id:: 61a04280-ca09-4175-a35a-21de9ae76c6b
