@@ -1,1 +1,2 @@
-- ¿Cómo cargamos datos .sav
+- ¿Cómo cargamos datos .sav  , datos de SPSS?
+	-
