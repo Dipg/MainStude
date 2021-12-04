@@ -14,3 +14,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aac8ff-28e0-46af-a174-e9d9084110eb
+- n  la perspectiva  anual  el  ingreso incluye  sueldos  y  salarios, remuneración empresarialy todas  las  formas  de  ingreso  de  capital, como:  intereses,  dividendos  y  ganancias  de capital. 
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aac908-a406-4afd-93f6-2f301a5f40d7
