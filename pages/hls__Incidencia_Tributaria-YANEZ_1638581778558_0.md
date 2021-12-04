@@ -26,3 +26,11 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aac9fd-613e-436a-b2c1-3b744f7c6c76
+- conclusiones
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aaca00-f0c6-4732-8da6-8925174c9b8d
+- del ciclo de  vida  
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aaca04-3621-4038-9493-ad2f21a54c38
