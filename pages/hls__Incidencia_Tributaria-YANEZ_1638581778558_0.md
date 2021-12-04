@@ -10,3 +10,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aac885-9cf2-4c9f-8b2b-ae4dd2072561
+- El  ingreso  a  través  del  ciclo  de  vida  debería  incluir solamente  los  regalos  realizados  y  las  herencias  recibidas  más  el  ingreso  laboral. 
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aac8ff-28e0-46af-a174-e9d9084110eb
