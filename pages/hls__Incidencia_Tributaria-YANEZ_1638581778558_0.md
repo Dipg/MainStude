@@ -22,3 +22,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aac931-031b-46ae-9dee-b225d996700c
+- Fullerton y Rogers (1991),
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aac9fd-613e-436a-b2c1-3b744f7c6c76
