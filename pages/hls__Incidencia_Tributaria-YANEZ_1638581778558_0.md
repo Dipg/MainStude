@@ -38,3 +38,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aaca1c-9f9a-4bca-a27a-85bcd932ff7b
+- el impuesto sobre el ingreso personal  y sobre  el  ingreso de  las corporaciones aparece  menos progresivo a  través del  ciclo  de  vida,  mientras  los  impuestos  al  consumo  aparecen  menos  regresivos sobre la base ciclo de vida.
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61aaca4b-ecff-45c6-88e1-938a39dec8e0
