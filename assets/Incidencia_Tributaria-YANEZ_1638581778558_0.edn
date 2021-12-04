@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61aac79f-6a8f-4c0b-8c59-f3c81744c385", :page 137, :position {:bounding {:x1 163.625, :y1 99.84375, :x2 669.5650024414062, :y2 118.84375, :width 756, :height 992.2}, :rects ({:x1 163.625, :y1 99.84375, :x2 184.67672729492188, :y2 118.84375, :width 756, :height 992.2} {:x1 196.828125, :y1 99.84375, :x2 669.5650024414062, :y2 118.84375, :width 756, :height 992.2}), :page 137}, :content {:text "15.INCIDENCIA TRIBUTARIAA TRAVÉS DEL CICLO DE VIDA"}, :properties {:color "yellow"}}]}
