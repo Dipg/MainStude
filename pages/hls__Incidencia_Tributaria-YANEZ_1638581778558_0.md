@@ -6,3 +6,7 @@
   ls-type:: annotation
   hl-page:: 137
   id:: 61aac812-5763-468e-b015-faf0604a4969
+- El  sistema  tributario  debe  ser  equitativo  sobre  una base  anual  y  sobre  una base del ciclo de vida. 
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aac885-9cf2-4c9f-8b2b-ae4dd2072561
