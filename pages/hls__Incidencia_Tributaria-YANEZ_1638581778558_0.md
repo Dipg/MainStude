@@ -18,3 +18,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61aac908-a406-4afd-93f6-2f301a5f40d7
+- mientras el ingreso a través del ciclo de vida es independientede los ingresos de capital, la carga tributariaa través del  ciclo de  vida  no lo es. 
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61aac931-031b-46ae-9dee-b225d996700c
