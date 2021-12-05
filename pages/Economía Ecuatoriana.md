@@ -1,7 +1,7 @@
 -
   <div class="cards">
-  <div style="color:white ;font-size:40px;"  > PIB </div>
-    <div style="color:green; font-size:40px;" >8%</div> 
+  <a style="color:white ;font-size:40px;"  > PIB </a>
+    <astyle="color:green; font-size:40px;" >8%</div> 
   <a href="https://contenido.bce.fin.ec/documentos/Administracion/bi_tick_PIB_CNT.html">BCE</a>
   </div>
 	-
