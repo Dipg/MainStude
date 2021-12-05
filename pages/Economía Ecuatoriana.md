@@ -10,7 +10,7 @@
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
   <div class="card">
-  <div class="container">
+  <div   style="display: inline" class="container">
   <dato  style="display: inline" >  8% </dato>
     <tipo  style="display: inline" >PIB</tipo> 
     <p>Interior Designer</p> 
