@@ -14,18 +14,20 @@
     }
 
 
-div[data-refs-self*="kanban"] > .block-children {
+    div[data-refs-self*="kanban"] > .block-children {
         display: inline-flex;
         position: relative;
         margin: -2px !important;
     padding-right: -300px;
     
     }
-div[data-refs-self*="kanban"] >.block-children > div {
+    div[data-refs-self*="kanban"] >.block-children > div {
         width: 400px;
         padding-right: 3px;
     
         }
+
+resize image-resize
 
 
 
