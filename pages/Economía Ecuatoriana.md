@@ -1,4 +1,4 @@
-- Evolución de los tratados  comerciales internacionales
+- Evolución de los tratados  comerciales internacionales  :link
 - ![image.png](../assets/image_1638718468657_0.png){:height 328, :width 714}
 - https://sdgpulse.unctad.org/trade-barriers/
 - PIB  Nominal Ecuador →  [BCE ](https://sintesis.bce.fin.ec/BOE/OpenDocument/2109181649/OpenDocument/opendoc/openDocument.faces?logonSuccessful=true&shareId=0)
