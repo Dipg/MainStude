@@ -3,5 +3,5 @@
 - Analissi Compartivo de Comercio exterior Ecuador
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 -
-- PIB  Nominal Ecuador  BCE
+- PIB  Nominal Ecuador →  [BCE ](https://sintesis.bce.fin.ec/BOE/OpenDocument/2109181649/OpenDocument/opendoc/openDocument.faces?logonSuccessful=true&shareId=0)
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
