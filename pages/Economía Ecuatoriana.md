@@ -28,15 +28,10 @@
     border-radius: 20px;
    background-color: rgba(0, 0, 0, 0.5);
   }
-  .card:hover {
+  .cards:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-  img {
-    border-radius: 5px 5px 0 0;
-  }
-  .container {
-    padding: 2px 16px;
-  }
+  
   </style>
 -
 -
