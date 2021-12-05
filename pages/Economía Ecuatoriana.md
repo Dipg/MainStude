@@ -34,11 +34,7 @@
 -
 -
   <style>      
-  div[data-refs-self*="kanban"] >.block-children > div {
-  	display: inline-block !important;
-  	width: 400px;
-  	padding-right: -300px important;
-  	}
+  
   div[data-refs-self*="kanban"] > .block-children {
   	display: inline-flex;
   	position: relative;
