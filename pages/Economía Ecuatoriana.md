@@ -41,9 +41,13 @@
   	margin-right: 100px;
   padding-right: 300px;
   	
-      padding-right: 300px !important;
   
   }
+  div[data-refs-self*="kanban"] >.block-children > div {
+  	display: inline-block;
+  	width: 400px;
+  	padding-right: 3px;
+  	}
   </style>
 -
 - #kanban
