@@ -17,7 +17,7 @@
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > PIB  Nominal</div>
     <div style="color:green ; font-size:40px;" >8%</div> 
-  <a href="https://sintesis.bce.fin.ec/BOE/OpenDocument/2109181649/OpenDocument/opendoc/openDocument.faces?logonSuccessful=true&shareId=0" class="btn btn-sm btn-secondary" style="padding: 1.25em;">Find out more
+  [IDSD](https://sintesis.bce.fin.ec/BOE/OpenDocument/2109181649/OpenDocument/opendoc/openDocument.faces?logonSuccessful=true&shareId=0)
   </div>
 -
   <div class="cards">
