@@ -23,7 +23,7 @@
     width: 40%;
     border-radius: 20px;
    background-color: rgba(0, 0, 0, 0.5);
-    padding: 190px;
+    padding: 30px;
     height: 30px; 
   }
   .cards:hover {
