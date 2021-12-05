@@ -40,8 +40,7 @@
   	position: relative;
   	margin-right: 100px;
   padding-right: 300px;
-  width: 300px;
-  
+  width: 100%;
   }
   div[data-refs-self*="kanban"] >.block-children > div {
   	width: 300px;
