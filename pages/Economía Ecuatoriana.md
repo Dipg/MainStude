@@ -38,10 +38,12 @@
   div[data-refs-self*="kanban"] > .block-children {
   	display: inline-flex;
   	position: relative;
-  
   	margin-right: 100px;
   padding-right: 300px;
-  	}
+  	.pr-2 {
+      padding-right: 300px;
+  }
+  }
   </style>
 -
 - #kanban
