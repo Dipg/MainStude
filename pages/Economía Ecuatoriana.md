@@ -8,10 +8,9 @@
   collapsed:: true
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
--
-  <div class="cards">
-  <span  >  8% </span>
-    <span>PIB</span> 
+- <div class="cards">
+  <div  >  8% </span>
+    <div>PIB</span> 
   </div>
 -
 -
