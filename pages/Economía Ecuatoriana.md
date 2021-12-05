@@ -11,13 +11,13 @@
 -
   <div class="cards">
   <div  >  8% </div>
-    <div >PIB</div> 
+    <span>PIB</div> 
   </div>
 -
 -
   <style>
   .cards{
-  
+   position: relative;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
     width: 40%;
