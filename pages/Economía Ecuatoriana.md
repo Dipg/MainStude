@@ -9,11 +9,6 @@
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 -
   <div class="cards">
-  <div style="color:white ;font-size:40px;"  > PIB </div>
-    <div style="color:white ; font-size:40px;" >8%</div> 
-  </div>
--
-  <div class="cards">
   <div style="color:white ;font-size:40px;"  > PIB  Nominal</div>
     <div style="color:green ; font-size:40px;" >8%</div> 
   
