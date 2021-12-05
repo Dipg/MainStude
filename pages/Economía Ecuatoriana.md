@@ -17,9 +17,8 @@
 -
   <style>
   .cards{
-  position: relative !important;
-   display: inline-block !important;
-  
+    display: flex;
+    flex-direction: column;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
     width: 40%;
