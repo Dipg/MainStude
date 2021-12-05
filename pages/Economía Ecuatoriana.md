@@ -12,6 +12,7 @@
   <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
     <div style="color:red; font-size:40px;" >8%</div> 
   </div>
+	- wdqe
 - Evolución de los tratados  comerciales internacionales  :[🔗](https://sdgpulse.unctad.org/trade-barriers/)
   collapsed:: true
 	- ![image.png](../assets/image_1638718468657_0.png){:height 328, :width 714}
