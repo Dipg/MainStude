@@ -12,14 +12,14 @@
   <div class="card">
   
   <div  >  8% </div>
-    <div >PIB</div> 
+    <div  style="display: inline" >PIB</div> 
   
   </div>
 -
 -
   <style>
   .card {
-   [display: inline-block !important;]( float: left;)
+   display: inline-block;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
     width: 40%;
