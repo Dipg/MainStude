@@ -9,7 +9,7 @@
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
-  <div class="card">
+  <div class="cards">
   
   <div style="display: inline"  >  8% </div>
     <div  style="display: inline" >PIB</div> 
@@ -20,6 +20,7 @@
   <style>
   .card {
   position: relative;
+   display: inline-block;
    display: inline-block;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
