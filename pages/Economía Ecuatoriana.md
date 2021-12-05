@@ -47,3 +47,12 @@
     </div>
   </div>
 -
+  <style>      
+  
+  
+  
+  </style>
+- @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&family=Varela+Round&display=swap');
+- body {
+  font-family: "Tajawal", Arial;
+  }
