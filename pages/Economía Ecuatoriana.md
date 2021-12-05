@@ -16,13 +16,6 @@
   </div>
   </div>
 -
-  <div class="card">
-  <h1> PIB </h1>
-    <div class="container">
-      <h4><b>John Doe</b></h4>
-      <p>Architect & Engineer</p>
-    </div>
-  </div>
 -
   <style>      
   
