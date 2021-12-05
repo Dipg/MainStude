@@ -8,3 +8,11 @@
   collapsed:: true
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
+-
+  <div class="card">
+    <img src="img_avatar.png" alt="Avatar" style="width:100%">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
