@@ -29,8 +29,8 @@
     <div style="color:red; font-size:40px;" >8%</div> 
   <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
   </div>
-	- wdqef
 - Evolución de los tratados  comerciales internacionales
+  collapsed:: true
 	- {{renderer :linkpreview,https://sdgpulse.unctad.org/trade-barriers/}}
 	- ![image.png](../assets/image_1638718468657_0.png){:height 328, :width 714}
 - Análisis Comparativo de Comercio exterior Ecuador
