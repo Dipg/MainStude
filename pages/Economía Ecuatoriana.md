@@ -12,7 +12,7 @@
   <div class="card">
   <div class="container">
   <dato  style="display: inline" >  8% </dato>
-    <tipo>PIB</tipo> 
+    <tipo  style="display: inline" >PIB</tipo> 
     <p>Interior Designer</p> 
   </div>
   </div>
