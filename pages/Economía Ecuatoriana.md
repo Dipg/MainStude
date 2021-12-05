@@ -19,6 +19,7 @@
     <div style="color:green ; font-size:40px;" >8%</div> 
   
   </div>
+	-
 -
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
