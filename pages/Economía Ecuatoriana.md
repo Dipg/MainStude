@@ -57,7 +57,7 @@
 	  </div>
 	-
 	  <div class="cards">
-	  <div style="color:white ;font-size:40px;"  > Nivel de Expor</div>
+	  <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
 	    <div style="color:white ; font-size:40px;" >8%</div> 
 	  </div>
 	-
