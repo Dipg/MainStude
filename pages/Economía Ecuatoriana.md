@@ -17,6 +17,7 @@
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > PIB  Nominal</div>
     <div style="color:green ; font-size:40px;" >8%</div> 
+  <a href="text.html" class="btn btn-sm btn-secondary" style="padding: 1.25em;">Find out more</a>
   </div>
 -
   <div class="cards">
