@@ -6,6 +6,7 @@
 	  <a href="https://contenido.bce.fin.ec/documentos/Administracion/bi_tick_PIB_CNT.html">  🔗 </a>
 	  </div>
 		- El Pib del Ecuador Varia
+			- ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 	-
 	  <div class="cards">
 	  <a style="color:white ;font-size:20px;"  >    PIB Nominal    </a>
@@ -21,13 +22,11 @@
 	-
 -
   <div class="cards">
-  collapsed:: true
   <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
     <div style="color:red; font-size:40px;" >8%</div> 
   <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
   </div>
 	- wdqef
-		- ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 - Evolución de los tratados  comerciales internacionales  :[🔗](https://sdgpulse.unctad.org/trade-barriers/)
   collapsed:: true
 	- ![image.png](../assets/image_1638718468657_0.png){:height 328, :width 714}
