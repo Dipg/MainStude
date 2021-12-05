@@ -34,17 +34,14 @@
 -
 -
   <style>      
-  div[data-refs-self*="kanban"] >.block-children > div {
-  	display: inline-block !important;
-  	width: 400px;
-  	padding-right: 3px;
-  	}
+  
   div[data-refs-self*="kanban"] > .block-children {
   	display: inline-flex;
   	position: relative;
   	overflow-x: auto;
   	overflow-y: hidden;
   	margin: 10px;
+  padding-right: 300px;
   	}
   </style>
 -
