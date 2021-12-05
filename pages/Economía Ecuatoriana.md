@@ -8,10 +8,11 @@
   collapsed:: true
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
-- <div class="card">
+-
+  <div class="card">
   <div   style="display: inline" class="container">
-  <div  style="display: inline" >  8% </dato>
-    <tipo  style="display: inline" >PIB</tipo> 
+  <div  style="display: inline" >  8% </div>
+    <tdiv  style="display: inline" >PIB</div> 
   </div>
   </div>
 -
