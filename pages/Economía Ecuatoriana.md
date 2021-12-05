@@ -13,7 +13,6 @@
   <div   style="display: inline" class="container">
   <dato  style="display: inline" >  8% </dato>
     <tipo  style="display: inline" >PIB</tipo> 
-  
   </div>
   </div>
 -
