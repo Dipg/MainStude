@@ -23,7 +23,7 @@
     transition: 0.3s;
     width: 40%;
     border-radius: 20px;
-  
+   background-color: rgba(0, 0, 0, 0.2);
   }
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
