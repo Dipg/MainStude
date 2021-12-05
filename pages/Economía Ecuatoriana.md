@@ -52,6 +52,7 @@
 - #kanban
 	-
 	  <div class="cards">
+	  collapsed:: true
 	  <div style="color:white ;font-size:40px;"  > PIB  Nominal</div>
 	    <div style="color:green ; font-size:40px;" >8%</div> 
 	  </div>
