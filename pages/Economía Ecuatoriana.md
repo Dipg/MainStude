@@ -11,15 +11,15 @@
 -
   <div class="cards">
   
-  <div style="display: inline"  >  8% </div>
-    <div  style="display: inline" >PIB</div> 
+  <div   >  8% </div>
+    <div >PIB</div> 
   
   </div>
 -
 -
   <style>
   .cards{
-  position: relative;
+  position: relative ;
    display: inline-block;
    display: inline-block;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
