@@ -9,9 +9,9 @@
       padding: 30px;
       height: 30px; 
     }
-.cards:hover {
+    .cards:hover {
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
+    }
 
 
 div[data-refs-self*="kanban"] > .block-children {
