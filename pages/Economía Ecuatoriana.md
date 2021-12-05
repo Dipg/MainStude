@@ -10,8 +10,8 @@
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
   <div class="cards">
-  <div  >  8% </div>
-    <div>PIB</div> 
+  <div  > PIB </div>
+    <div>8%</div> 
   </div>
 -
 -
