@@ -35,7 +35,7 @@
 -
   <style>      
   div[data-refs-self*="kanban"] >.block-children > div {
-  	display: inline-block;
+  	display: inline-block !important;
   	width: 400px;
   	padding-right: 3px;
   	}
