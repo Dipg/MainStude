@@ -10,10 +10,10 @@
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
   <div class="card">
-  <div   style="display: inline" class="container">
+  
   <div  style="display: inline" >  8% </div>
     <div  style="display: inline" >PIB</div> 
-  </div>
+  
   </div>
 -
 -
