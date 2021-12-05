@@ -10,6 +10,13 @@
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
   <div class="card">
+  - <div class="container">
+    <h4><b>Jane Doe</b></h4> 
+    <p>Interior Designer</p> 
+  </div>
+  </div>
+-
+  <div class="card">
   <h1> PIB </h1>
     <div class="container">
       <h4><b>John Doe</b></h4>
