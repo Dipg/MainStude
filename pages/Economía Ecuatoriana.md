@@ -21,7 +21,7 @@
   display: table;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
     transition: 0.3s;
-    width: 40%;
+    width: 100%;
     border-radius: 20px;
    background-color: rgba(0, 0, 0, 0.5);
     padding: 30px;
