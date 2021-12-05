@@ -18,7 +18,7 @@
 -
 -
   <style>
-  .card {
+  .cards{
   position: relative;
    display: inline-block;
    display: inline-block;
