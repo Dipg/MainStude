@@ -5,7 +5,7 @@
 	    <a style="color:green; font-size:20px;" >   8%   </a> 
 	  <a href="https://contenido.bce.fin.ec/documentos/Administracion/bi_tick_PIB_CNT.html">  🔗 </a>
 	  </div>
-		-
+		- El Pib del Ecuador Varia
 	-
 	  <div class="cards">
 	  <a style="color:white ;font-size:20px;"  >    PIB Nominal    </a>
