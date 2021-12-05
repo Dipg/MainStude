@@ -8,9 +8,10 @@
   collapsed:: true
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
-- <div class="cards">
+-
+  <div class="cards">
   <div  >  8% </div>
-    <div>PIB</span> 
+    <div>PIB</div> 
   </div>
 -
 -
@@ -22,6 +23,8 @@
     width: 40%;
     border-radius: 20px;
    background-color: rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    height: 30px; 
   }
   .cards:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
