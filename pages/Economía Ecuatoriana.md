@@ -17,16 +17,21 @@
   </div>
 -
 -
-  <style>       .card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
-  transition: 0.3s;
-  } /* On mouse-over, add a deeper shadow */
+  <style>
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 20px;
+  }
   .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  } /* Add some padding inside the card container */
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  img {
+    border-radius: 5px 5px 0 0;
+  }
   .container {
-  padding: 2px 16px;
+    padding: 2px 16px;
   }
   </style>
 -
