@@ -41,7 +41,7 @@
   	margin-right: 100px;
   padding-right: 300px;
   	.pr-2 {
-      padding-right: 300px;
+      padding-right: 300px !important;
   }
   }
   </style>
