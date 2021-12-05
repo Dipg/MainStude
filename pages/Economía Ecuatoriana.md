@@ -3,4 +3,5 @@
 - Analissi Compartivo de Comercio exterior Ecuador
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
 -
+- PIB -
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
