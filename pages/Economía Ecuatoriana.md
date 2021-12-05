@@ -39,7 +39,7 @@
   	display: inline-flex;
   	position: relative;
   	margin-right: -100px;
-  padding-right: 300px;
+  padding-right: -300px;
   
   }
   div[data-refs-self*="kanban"] >.block-children > div {
