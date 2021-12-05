@@ -10,7 +10,7 @@
 - ![image.png](../assets/image_1638720767999_0.png){:height 325, :width 714}
 -
   <div class="card">
-    <img src="https://m.media-amazon.com/images/I/514jOjHCiXL._AC_SX425_.jpg" alt="Avatar" style="width:100%">
+    <img src="" alt="Avatar" style="width:100%">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
