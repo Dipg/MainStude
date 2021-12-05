@@ -44,7 +44,7 @@
   	position: relative;
   	overflow-x: auto;
   	overflow-y: hidden;
-  	margin: 10px;
+  	margin: 1px;
   	}
   </style>
 -
