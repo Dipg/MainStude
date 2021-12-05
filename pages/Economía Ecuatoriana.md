@@ -11,8 +11,8 @@
 -
   <div class="card">
   <div class="container">
-  <dato>  8% </dato>
-    <h4><b>PIB</b></h4> 
+  <dato  style="display: inline" >  8% </dato>
+    <valor>PIB</b></h4> 
     <p>Interior Designer</p> 
   </div>
   </div>
