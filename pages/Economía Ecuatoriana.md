@@ -12,7 +12,7 @@
   <div class="card">
   <div   style="display: inline" class="container">
   <div  style="display: inline" >  8% </div>
-    <tdiv  style="display: inline" >PIB</div> 
+    <div  style="display: inline" >PIB</div> 
   </div>
   </div>
 -
