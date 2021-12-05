@@ -2,7 +2,7 @@
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > PIB </div>
     <div style="color:green; font-size:40px;" >8%</div> 
-  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+  <a href="https://sintesis.bce.fin.ec/BOE/OpenDocument/2109181649/OpenDocument/opendoc/openDocument.faces?logonSuccessful=true&shareId=0">Visit W3Schools.com!</a>
   </div>
 	-
 -
