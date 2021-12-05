@@ -45,7 +45,7 @@
   	overflow-x: auto;
   	overflow-y: hidden;
   	margin: 10px;
-  padding-right: -300px important;
+  padding: -300px important;
   	}
   </style>
 -
