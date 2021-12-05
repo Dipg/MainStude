@@ -33,10 +33,10 @@
 - Evolución de los tratados  comerciales internacionales  :[🔗](https://sdgpulse.unctad.org/trade-barriers/)
   collapsed:: true
 	- ![image.png](../assets/image_1638718468657_0.png){:height 328, :width 714}
-- Analissi Compartivo de Comercio exterior Ecuador 
-  collapsed:: true
+- Análisis Comparativo de Comercio exterior Ecuador
 	- https://www.centrosureditorial.com/index.php/revista/article/view/81/221
-- Examen estadístico del comercio mundial 2021
 -
-- {{renderer :linkpreview,https://www.wto-ilibrary.org/trade-monitoring/examen-estadistico-del-comercio-mundial-2021_e724f894-es}}
+- Examen estadístico del comercio mundial 2021
+	- {{renderer :linkpreview,https://www.wto-ilibrary.org/trade-monitoring/examen-estadistico-del-comercio-mundial-2021_e724f894-es}}
+-
 -
