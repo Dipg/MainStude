@@ -43,7 +43,7 @@
   
   }
   div[data-refs-self*="kanban"] >.block-children > div {
-  	width: 00px;
+  	width: 300px;
   	padding-right: 3px;
   	}
   </style>
