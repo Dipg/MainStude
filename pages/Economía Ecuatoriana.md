@@ -40,7 +40,7 @@
   	position: relative;
   	overflow-x: auto;
   	overflow-y: hidden;
-  	margin-: 100px;
+  	margin-right: 100px;
   padding-right: 300px;
   	}
   </style>
