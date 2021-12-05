@@ -11,8 +11,8 @@
 -
   <div class="card">
   
-  <div  style="display: inline" >  8% </div>
-    <div  style="display: inline" >PIB</div> 
+  <div  >  8% </div>
+    <div >PIB</div> 
   
   </div>
 -
