@@ -53,12 +53,12 @@
 	-
 	  <div class="cards">
 	  <div style="color:white ;font-size:40px;"  > PIB </div>
-	    <div style="color: ; font-size:40px;" >8%</div> 
+	    <div style="color:green ; font-size:40px;" >8%</div> 
 	  </div>
 	-
 	  <div class="cards">
 	  <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
-	    <div style="color:white ; font-size:40px;" >8%</div> 
+	    <div style="color:red; font-size:40px;" >8%</div> 
 	  </div>
 	-
 -
