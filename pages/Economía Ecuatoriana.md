@@ -1,6 +1,5 @@
 -
   <div class="cards">
-  collapsed:: true
   <div style="color:white ;font-size:40px;"  > PIB  Nominal</div>
     <div style="color:green ; font-size:40px;" >8%</div> 
   <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
@@ -11,6 +10,7 @@
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
     <div style="color:red; font-size:40px;" >8%</div> 
+  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
   </div>
 	- wdqe
 - Evolución de los tratados  comerciales internacionales  :[🔗](https://sdgpulse.unctad.org/trade-barriers/)
