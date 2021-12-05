@@ -54,7 +54,11 @@
 	  <div style="color:white ;font-size:40px;"  > PIB </div>
 	    <div style="color:white ; font-size:40px;" >8%</div> 
 	  </div>
-	- asd
+	-
+	  <div class="cards">
+	  <div style="color:white ;font-size:40px;"  > PIB </div>
+	    <div style="color:white ; font-size:40px;" >8%</div> 
+	  </div>
 	- j
 	-
 -
