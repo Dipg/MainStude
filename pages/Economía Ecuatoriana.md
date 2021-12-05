@@ -11,7 +11,7 @@
 -
   <div class="card">
   <div class="container">
-  <dato>   </dato>
+  <dato>  8% </dato>
     <h4><b>PIB</b></h4> 
     <p>Interior Designer</p> 
   </div>
