@@ -23,5 +23,8 @@
   <div class="cards">
   <div style="color:white ;font-size:40px;"  > Nivel de Exportaciones </div>
     <div style="color:red; font-size:40px;" >8%</div> 
+  <form action="https://google.com">
+      <input type="submit" value="Go to Google" />
+  </form>
   </div>
 -
