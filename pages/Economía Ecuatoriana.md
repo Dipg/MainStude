@@ -11,7 +11,7 @@
 -
   <div class="card">
   <div class="container">
-    <h4><b>Jane Doe</b></h4> 
+    <h4><b>PIB</b></h4> 
     <p>Interior Designer</p> 
   </div>
   </div>
