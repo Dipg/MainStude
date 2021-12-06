@@ -40,5 +40,5 @@
 - Examen estadístico del comercio mundial 2021
 	- {{renderer :linkpreview,https://www.wto-ilibrary.org/trade-monitoring/examen-estadistico-del-comercio-mundial-2021_e724f894-es}}
 	- Paginas para medir la competitividad del comercio internacional
-		- https://www.cepal.org/sites/default/files/events/files/caso_02.pdf
+		- {{renderer :linkpreview,https://www.cepal.org/sites/default/files/events/files/caso_02.pdf}}
 -
