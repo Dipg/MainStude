@@ -55,4 +55,5 @@
 	- ![Between free trade and protectionism.pdf](../assets/Between_free_trade_and_protectionism_1638791166400_0.pdf)
 	- ![Protectionism and Free Trade A Country‘s Glory or Doom.pdf](../assets/Protectionism_and_Free_Trade_A_Country‘s_Glory_or_Doom_1638791239920_0.pdf)
 	- ![Política de comercio exterior en Ecuador Un análisis comparativo.pdf](../assets/Política_de_comercio_exterior_en_Ecuador_Un_análisis_comparativo_1638791289725_0.pdf)
-	-
+	- https://www.cato.org/economic-development-bulletin/debunking-protectionist-myths-free-trade-developing-world-prosperity
+-
