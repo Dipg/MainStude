@@ -50,4 +50,5 @@
 - Datos PIB anual
   collapsed:: true
 	- {{renderer :linkpreview,https://datosmacro.expansion.com/pib/ecuador}}
-- ![Why the Move to Free Trade.pdf](../assets/Why_the_Move_to_Free_Trade_1638791104368_0.pdf)
+- Papers Comercio Exterior
+	- ![Why the Move to Free Trade.pdf](../assets/Why_the_Move_to_Free_Trade_1638791104368_0.pdf)
