@@ -48,4 +48,5 @@
   collapsed:: true
 	- {{renderer :linkpreview,https://www.trademap.org/Index.aspx}}
 - Datos PIB anual
-	- https://datosmacro.expansion.com/pib/ecuador
+  collapsed:: true
+	- {{renderer :linkpreview,https://datosmacro.expansion.com/pib/ecuador}}
