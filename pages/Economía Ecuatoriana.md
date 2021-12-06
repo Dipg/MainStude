@@ -54,3 +54,4 @@
 	- ![Why the Move to Free Trade.pdf](../assets/Why_the_Move_to_Free_Trade_1638791104368_0.pdf)
 	- ![Between free trade and protectionism.pdf](../assets/Between_free_trade_and_protectionism_1638791166400_0.pdf)
 	- ![Protectionism and Free Trade A Country‘s Glory or Doom.pdf](../assets/Protectionism_and_Free_Trade_A_Country‘s_Glory_or_Doom_1638791239920_0.pdf)
+	-
