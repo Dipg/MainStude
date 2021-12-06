@@ -42,4 +42,4 @@
 	- Paginas para medir la competitividad del comercio internacional
 		- {{renderer :linkpreview,https://www.cepal.org/sites/default/files/events/files/caso_02.pdf}}
 		- Indices CEPAL
-			- https://repositorio.cepal.org/bitstream/handle/11362/3690/S2008794_es.pdf
+			- {{renderer :linkpreview,https://repositorio.cepal.org/bitstream/handle/11362/3690/S2008794_es.pdf}}
