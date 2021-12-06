@@ -45,4 +45,4 @@
 		- Indices CEPAL
 			- {{renderer :linkpreview,https://repositorio.cepal.org/bitstream/handle/11362/3690/S2008794_es.pdf}}
 - Datos de Comercio Exterior
-	-
+	- {{renderer :linkpreview,https://www.trademap.org/Index.aspx}}
