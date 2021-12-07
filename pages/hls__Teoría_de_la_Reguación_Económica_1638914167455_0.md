@@ -30,3 +30,7 @@
   ls-type:: annotation
   hl-page:: 140
   id:: 61afdf2c-b64f-44fd-be2e-f6d25a586f04
+- se alcanza el nivel de producción de competencia (yPM), 
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61afdf33-d7f5-4b00-aaa1-93fc52282300
