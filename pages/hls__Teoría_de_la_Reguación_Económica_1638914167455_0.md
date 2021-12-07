@@ -18,3 +18,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61afd98f-a2f2-4a10-ae95-cd60afab7063
+- subsidiar  cruzadamente 
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61afd9b1-6b69-49f1-a6ce-06820aa38094
