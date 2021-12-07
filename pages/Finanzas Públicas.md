@@ -252,6 +252,7 @@ collapsed:: true
 						- Es la perdida de eficiencia esta perdida de eficiencia  es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto.
 						- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
 			- ¿Cuales son los componenestes de la carga total?
+			  collapsed:: true
 				- Carga directa
 				  collapsed:: true
 					- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
