@@ -240,7 +240,7 @@ collapsed:: true
 		- ¿ En que consiste la incidencia  tributaria?
 			- Consiste en saber qui paga verdaderamente la carga de impuestos
 			- ¿ Que se entiende por carga de impuestos?
-				- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores, dicas proporciones determin
+				- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores, dicas proporciones determinadas por las
 -
 -
 -
