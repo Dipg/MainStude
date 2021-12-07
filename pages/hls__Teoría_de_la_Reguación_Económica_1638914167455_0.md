@@ -56,3 +56,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61afe0de-3ac4-4e2b-aecc-e2ebfa57a9a3
+- se debe recaudar un monto mayor al déficit de la empresa
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61afe129-bc69-479c-9049-a0169c9a66c5
