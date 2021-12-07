@@ -92,3 +92,7 @@
   ls-type:: annotation
   hl-page:: 18
   id:: 61af5c12-8430-4cba-b8e5-9ee65d494e26
+- La   incidencia económica   de   un   impuestoconsiste   en determinar   quién paga realmentelas  cargas  que  colocanlosimpuestosen  la  práctica.
+  ls-type:: annotation
+  hl-page:: 18
+  id:: 61af5c78-ecba-4e5b-84ee-a7cdfd89b1eb
