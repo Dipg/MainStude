@@ -96,3 +96,7 @@
   ls-type:: annotation
   hl-page:: 18
   id:: 61af5c78-ecba-4e5b-84ee-a7cdfd89b1eb
+- Muchas creen que las autoridades tienen el poder o la capacidad para fijar porley quien paga realmente la carga  de unimpuesto. 
+  ls-type:: annotation
+  hl-page:: 19
+  id:: 61af5cb2-5faf-445c-a5b8-f3c1a3be3870
