@@ -20,4 +20,4 @@
 		  collapsed:: true
 			- ((61afe024-92d8-48e8-855f-ddebdc3bcd2f))
 		- Esta perdida se propone ser financiada con un subsidio $T$
-		- ¿Por que  no es frecuente que las empresas concedan este subsidio y as alcanzasr un precio del ?
+		- ¿Por que  no es frecuente que las empresas concedan este subsidio y as alcanzar un precio del primer mejor ?
