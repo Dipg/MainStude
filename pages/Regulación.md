@@ -5,4 +5,4 @@
 		- Debido a que estos generan ciertos problemas
 		- ¿Cómo cuales?
 		- Los problemas que se plantean son 3
-		-
+		- La busqueda de precios ob
