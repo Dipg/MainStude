@@ -5,4 +5,6 @@
 		- Debido a que estos generan ciertos problemas
 		- ¿Cómo cuales?
 		- Los problemas que se plantean son 3
-		- La búsqueda de precios optimos que maximizan el bienestar de la sociedad
+		- La búsqueda de precios óptimos
+			- que maximizan el bienestar de la sociedad
+		-
