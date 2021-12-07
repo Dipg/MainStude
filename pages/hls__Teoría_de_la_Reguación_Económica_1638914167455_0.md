@@ -52,3 +52,7 @@
   ls-type:: annotation
   hl-page:: 140
   id:: 61afe0aa-6de3-4a7f-befa-c39af2cae0a9
+- Costos de los Fondos Públicos o Costos Sombra de los Fondos Públicos, 
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61afe0de-3ac4-4e2b-aecc-e2ebfa57a9a3
