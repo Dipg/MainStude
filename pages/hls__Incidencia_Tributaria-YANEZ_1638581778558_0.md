@@ -78,3 +78,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4e42-1f98-4cfb-a4a4-de69bf6584c2
+- la  carga  del impuesto  serefiere  a la  porción  del  impuesto  que  paga  cada  lado  del mercado más la porción de la pérdida de eficiencia que soporta cada uno de ellos.
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4ebf-4078-4fcc-8ee7-5965235fe3bd
