@@ -270,7 +270,7 @@ collapsed:: true
 				-
 			- ¿Cuales son los tipos de incidencia?
 				- Incidencia estatutaria
-					- Es la obligación legal de un impuesto ,
+					- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pa
 				- incidencia económica
 				-
 -
