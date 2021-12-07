@@ -58,3 +58,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4ccb-86c4-4ced-b99a-dc3324ff8374
+- consumidores  y  productores, 
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4cd4-9bff-44f5-8b62-baf032b2e330
