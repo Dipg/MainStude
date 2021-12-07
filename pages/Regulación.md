@@ -6,5 +6,5 @@
 		- ¿Cómo cuales?
 		- Los problemas que se plantean son 3
 		- La búsqueda de precios óptimos
-			- que maximizan el bienestar de la sociedad
+			- Con el propósito de maximizan el bienestar de la sociedad
 		-
