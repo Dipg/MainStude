@@ -88,3 +88,7 @@
   id:: 61af5b06-6e31-4a79-929c-8d7c382096a5
   hl-type:: area
   hl-stamp:: 1638882053457
+- Laincidencia estatutaria u obligación legal de un impuestose refiere a la persona aquien la ley le  fijó la responsabilidad de pagar el impuesto
+  ls-type:: annotation
+  hl-page:: 18
+  id:: 61af5c12-8430-4cba-b8e5-9ee65d494e26
