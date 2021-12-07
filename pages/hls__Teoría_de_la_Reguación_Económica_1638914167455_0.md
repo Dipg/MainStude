@@ -14,3 +14,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61afd941-011c-4b61-bd4a-78d0cf3a4c22
+- la equidad distributiva,
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61afd98f-a2f2-4a10-ae95-cd60afab7063
