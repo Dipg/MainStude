@@ -253,6 +253,7 @@ collapsed:: true
 						- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
 			- ¿Cuales son los componenestes de la carga total?
 				- Carga directa
+					-
 				- Carga indirecta
 -
 -
