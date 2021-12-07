@@ -42,3 +42,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61aaca4b-ecff-45c6-88e1-938a39dec8e0
+- absoluta  o  infinitamente  inelástica
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61af4ae3-24fc-46bb-abf3-1d80ab01d2ed
