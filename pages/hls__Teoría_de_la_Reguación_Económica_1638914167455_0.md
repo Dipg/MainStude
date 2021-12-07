@@ -40,3 +40,11 @@
   id:: 61afe024-92d8-48e8-855f-ddebdc3bcd2f
   hl-type:: area
   hl-stamp:: 1638916131222
+- defensores
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61afe09f-47fa-41f8-96f7-e307a8c1fc40
+- Lump Sum Tax
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61afe0a2-9c63-4d54-95b1-2a80ccf0a108
