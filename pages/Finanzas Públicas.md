@@ -257,7 +257,7 @@ collapsed:: true
 					- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
 					-
 				- Carga indirecta
-					- Incluye la  perdida de eficiencia o carga excesiva que puede hgenerar el impuesto , incluyendo a esto los gastos administrativos por recuadcion y fiscalizacion
+					- Incluye la  perdida de eficiencia o carga excesiva que puede generar el impuesto , incluyendo a esto los gastos administrativos por recaudación y fiscalización
 -
 -
 -
