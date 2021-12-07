@@ -275,7 +275,7 @@ collapsed:: true
 				- incidencia económica
 					- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
 					- ¿Puede la ley establecer la incidencia económica?
-						- No
+						- No, por que esta se deriva de la
 				-
 				-
 			-
