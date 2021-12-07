@@ -62,3 +62,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4cd4-9bff-44f5-8b62-baf032b2e330
+- determinadas  por  las diferencias entre el precio de equilibrio de antes de impuesto y el precio de demanda y el precio de oferta dedespués de impuesto
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4ce0-eb5b-4acb-97fa-b5ae43e062d9
