@@ -15,4 +15,4 @@
 		- [](#3.)  El subsidio cruzado
 		-
 	- Precios de Primer mejor
-		-
+		- $P=
