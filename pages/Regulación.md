@@ -8,5 +8,6 @@
 		- [](#1.)  La búsqueda de precios óptimos
 		  collapsed:: true
 			- Con el propósito de maximizan el bienestar de la sociedad
-		-
+		- [](#2.) Equidad redistributiva
+			-
 		-
