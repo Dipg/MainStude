@@ -266,6 +266,7 @@ collapsed:: true
 				- No, por las diferencias de arriba
 			- ¿Cuál es la representación grafica de las cargas?
 				-
+				-
 -
 -
 -
