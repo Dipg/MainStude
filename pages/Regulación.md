@@ -11,4 +11,5 @@
 		- [](#2.) Equidad redistributiva
 		  collapsed:: true
 			- Que las personas de menor ingreso puedan acceder a productos a menos precio
+		- [](#3.)
 		-
