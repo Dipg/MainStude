@@ -1,3 +1,7 @@
+- “La  incidencia  tributaria  consiste  endeterminar quien paga verdaderamentelascargasde un impuesto”. 
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4b50-f12a-4837-a6ea-e59dd98bdb4e
 - 15.INCIDENCIA TRIBUTARIAA TRAVÉS DEL CICLO DE VIDA
   ls-type:: annotation
   hl-page:: 137
