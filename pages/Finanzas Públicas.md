@@ -280,5 +280,5 @@ collapsed:: true
 				-
 			-
 - [get\_file](https://www.kas.de/c/document\_library/get\_file?uuid=22412104-f255-886e-178f-8b32bf5bce06&groupId=252038)
--
+- [La progresividad de los tributos y su impacto en la economía de los hogares ecuatorianos 2001 – 2011](https://dspace.ups.edu.ec/bitstream/123456789/1785/18/UPS-GT000251.pdf)
 -
