@@ -253,7 +253,7 @@ collapsed:: true
 						- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
 			- ¿Cuales son los componenestes de la carga total?
 				- Carga directa
-					- La car
+					- La cargad directa es el total de impuestos
 				- Carga indirecta
 -
 -
