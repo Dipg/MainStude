@@ -50,3 +50,7 @@
   ls-type:: annotation
   hl-page:: 49
   id:: 61af4ae3-24fc-46bb-abf3-1d80ab01d2ed
+- las“cargasde  un  impuesto”son  dos:  la carga  tributariao carga directadel impuesto más la carga excesivao ineficienciao pérdida neta de bienestar social del impuesto. 
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4b84-b3c9-402e-8af8-5df8b8ca0ce2
