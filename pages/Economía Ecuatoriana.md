@@ -18,6 +18,7 @@
 	  </div>
 -
   <div class="cards">
+  id:: 61acef70-5919-4030-917b-11ed5b23c556
   <a style="color:white ;font-size:20px;"  >    PIB    </a>
     <a style="color:green; font-size:20px;" >   8%   </a> 
   <a href="https://contenido.bce.fin.ec/documentos/Administracion/bi_tick_PIB_CNT.html">  🔗 </a>

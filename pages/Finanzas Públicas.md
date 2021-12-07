@@ -254,7 +254,7 @@ collapsed:: true
 			- ¿Cuales son los componenestes de la carga total?
 				- Carga directa
 					- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje del [[PIB]]
-					-
+					- ((61acef70-5919-4030-917b-11ed5b23c556))
 				- Carga indirecta
 -
 -
