@@ -20,4 +20,4 @@
 		  collapsed:: true
 			- ((61afe024-92d8-48e8-855f-ddebdc3bcd2f))
 		- Esta perdida se propone ser financiada con un subsidio $T$
-		- ¿ Que son los cosotso sombras de los fondos p
+		- ¿ Que son los costoso sombras de los fondos públicos?
