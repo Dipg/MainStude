@@ -100,3 +100,7 @@
   ls-type:: annotation
   hl-page:: 19
   id:: 61af5cb2-5faf-445c-a5b8-f3c1a3be3870
+- la  incidencia  económicanose puede fijar por ley.
+  ls-type:: annotation
+  hl-page:: 19
+  id:: 61af5cd0-ec33-4244-a609-d42368315cb3
