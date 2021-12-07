@@ -82,3 +82,9 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4ebf-4078-4fcc-8ee7-5965235fe3bd
+- [:span]
+  ls-type:: annotation
+  hl-page:: 16
+  id:: 61af5b06-6e31-4a79-929c-8d7c382096a5
+  hl-type:: area
+  hl-stamp:: 1638882053457
