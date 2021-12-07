@@ -19,4 +19,4 @@
 		- Esto genera una perdida para la empresa igual a sus costos fijos $F$, la perdida esta representada en el siguiente grafico
 		  collapsed:: true
 			- ((61afe024-92d8-48e8-855f-ddebdc3bcd2f))
-		- Esta peridda se propone ser fianciada con
+		- Esta peridda se propone ser financiada con un subsidio $T$
