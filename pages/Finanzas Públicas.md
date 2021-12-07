@@ -259,6 +259,7 @@ collapsed:: true
 				- Carga indirecta
 				  collapsed:: true
 					- Incluye la  perdida de eficiencia o carga excesiva que puede generar el impuesto , incluyendo a esto los gastos administrativos por recaudación y fiscalización, costos de cumplimiento de impuestos, costos de cambiar de sistema tributario, la elusión y la evasión.
+				-
 -
 -
 -
