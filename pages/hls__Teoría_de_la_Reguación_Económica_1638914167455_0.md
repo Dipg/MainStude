@@ -10,3 +10,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61afd8ff-8b74-4626-b4c6-135d83646e72
+- busca que los precios sean óptimos,
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61afd941-011c-4b61-bd4a-78d0cf3a4c22
