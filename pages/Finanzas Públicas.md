@@ -242,7 +242,7 @@ collapsed:: true
 			- ¿ Que se entiende por cargas de impuestos?
 				- Se refiere a la proporción de impuesto que paga cada lado del mercado mas la proporción de la pérdida de eficiencia que soporta cada uno de ellos, esto es esta formada por dos componentes:
 					- La carga tributaria o directa
-						- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores, dichas proporciones determinadas por las diferencias entre el precio de equilibrio de antes de impuesto y el precio de demanda y el precio de oferta de después de impuesto.
+						- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores.
 					- Carga excesiva o ineficiencia o perdida neta de bienestar social del impuesto
 					  collapsed:: true
 						- La perdida de eficiencia es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto
