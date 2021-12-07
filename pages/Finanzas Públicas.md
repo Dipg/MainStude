@@ -239,7 +239,8 @@ collapsed:: true
 	- Incidencia tributaria a trevés del ciclo de vida ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 		- ¿ En que consiste la incidencia  tributaria?
 			- Consiste en saber qui paga verdaderamente la carga de impuestos
-			- ¿ Que se entiende por
+			- ¿ Que se entiende por carga de impuestos?
+				-
 -
 -
 -
