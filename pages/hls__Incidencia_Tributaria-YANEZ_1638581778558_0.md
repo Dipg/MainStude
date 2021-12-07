@@ -66,3 +66,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4ce0-eb5b-4acb-97fa-b5ae43e062d9
+- teoría de la incidencia tributaria debería comparar las utilidades de todos los agentes antes y  después  del  cambio  de  impuesto.
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4e22-827d-42dd-8c38-9a243c5c5948
