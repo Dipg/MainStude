@@ -74,3 +74,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4e39-1501-4ea4-81b4-aff999bbc0cc
+- roducida por el impuestoo la pérdida neta de bienestar social
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4e42-1f98-4cfb-a4a4-de69bf6584c2
