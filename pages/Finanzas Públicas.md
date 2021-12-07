@@ -264,6 +264,7 @@ collapsed:: true
 			- ¿Es lo mismo carga  que cargas ?
 			  collapsed:: true
 				- No, por las diferencias de arriba
+			- ¿Cual es la representación grafica de
 -
 -
 -
