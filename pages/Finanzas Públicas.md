@@ -279,6 +279,3 @@ collapsed:: true
 				-
 				-
 			-
-- [get\_file](https://www.kas.de/c/document\_library/get\_file?uuid=22412104-f255-886e-178f-8b32bf5bce06&groupId=252038)
-- [La progresividad de los tributos y su impacto en la economía de los hogares ecuatorianos 2001 – 2011](https://dspace.ups.edu.ec/bitstream/123456789/1785/18/UPS-GT000251.pdf)
-- _El mundo ha hecho avances significativos para reducir la pobreza: en los últimos treinta años, más de 1000 millones de personas han salido de la pobreza extrema. Sin embargo, la porción de los ingresos que le corresponde a la mitad más pobre de la humanidad apenas ha cambiado en ese período, pese a que la producción económica mundial se ha triplicado con creces desde 1990. Las desigualdades socavan el progreso económico, lo que a su vez agudiza las diferencias sociales generadas por las desigualdades._ - [Desigualdad: cómo subsanar las diferencias | Naciones Unidas](https://www.un.org/es/un75/inequality-bridging-divide)
