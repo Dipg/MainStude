@@ -48,3 +48,7 @@
   ls-type:: annotation
   hl-page:: 140
   id:: 61afe0a2-9c63-4d54-95b1-2a80ccf0a108
+- impuesto de monto fijo
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61afe0aa-6de3-4a7f-befa-c39af2cae0a9
