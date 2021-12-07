@@ -6,3 +6,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61afd8fa-e315-4eb0-b841-7adffb321480
+- nte  la  presencia  de  monopolios  naturales  en  el  mercado. 
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61afd8ff-8b74-4626-b4c6-135d83646e72
