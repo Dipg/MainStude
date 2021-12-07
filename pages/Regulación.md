@@ -16,4 +16,5 @@
 		-
 	- Precios de Primer mejor
 		- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
-		- Esto genera una perdida para la empresa igual a sus costos fijos $F$, la perdida esta representada en el s
+		- Esto genera una perdida para la empresa igual a sus costos fijos $F$, la perdida esta representada en el siguiente grafico
+		-
