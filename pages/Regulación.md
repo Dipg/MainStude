@@ -3,4 +3,5 @@
 	- Plante metodos para establecer precios a monopolios naturales
 	- ¿Por que ?
 		- Debido a que estos generan ciertos problemas
-		- ¿Como cual
+		- ¿Cómo cuales?
+		-
