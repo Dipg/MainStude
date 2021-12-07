@@ -70,3 +70,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4e22-827d-42dd-8c38-9a243c5c5948
+- la carga excesiva o la pérdida de eficiencia
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4e39-1501-4ea4-81b4-aff999bbc0cc
