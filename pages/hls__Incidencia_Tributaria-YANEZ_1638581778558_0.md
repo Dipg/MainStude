@@ -54,3 +54,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61af4b84-b3c9-402e-8af8-5df8b8ca0ce2
+- porción  del  impuesto
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61af4ccb-86c4-4ced-b99a-dc3324ff8374
