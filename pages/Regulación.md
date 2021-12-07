@@ -15,4 +15,4 @@
 		- [](#3.)  El subsidio cruzado
 		-
 	- Precios de Primer mejor
-		- $P=CMg$ donde alcanzamos el nivel de producción de competencia
+		- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$
