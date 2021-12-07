@@ -273,8 +273,9 @@ collapsed:: true
 				  collapsed:: true
 					- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pagar el impuesto
 				- incidencia económica
-				  collapsed:: true
 					- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
+					-
+				-
 				-
 			-
 -
