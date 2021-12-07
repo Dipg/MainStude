@@ -270,7 +270,7 @@ collapsed:: true
 				-
 			- ¿Cuales son los tipos de incidencia?
 				- Incidencia estatutaria
-				-
+					- Es la obligación legal de un
 				- incidencia económica
 				-
 -
