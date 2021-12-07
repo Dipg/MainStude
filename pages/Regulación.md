@@ -9,5 +9,6 @@
 		  collapsed:: true
 			- Con el propósito de maximizan el bienestar de la sociedad
 		- [](#2.) Equidad redistributiva
-			- Que las personas de menor ingreso puedad acceder a productos a menos percio
+		  collapsed:: true
+			- Que las personas de menor ingreso puedan acceder a productos a menos precio
 		-
