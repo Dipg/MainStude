@@ -246,7 +246,7 @@ collapsed:: true
 						- Corresponde al monto del impuesto cancelado por los contribuyentes o recaudación total
 					- Carga excesiva o ineficiencia o perdida neta de bienestar social del impuesto
 						- Es la perdida de eficiencia esta perdida de eficiencia  es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto.
-						-
+						- Esta peridad de eficiencia se genera al
 -
 -
 -
