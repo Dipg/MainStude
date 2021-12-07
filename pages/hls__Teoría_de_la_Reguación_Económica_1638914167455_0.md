@@ -22,3 +22,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61afd9b1-6b69-49f1-a6ce-06820aa38094
+- p = CMg
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61afdf25-de46-4566-9075-5fe41f3501da
