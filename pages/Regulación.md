@@ -17,6 +17,7 @@
 			- [](#3.)  El subsidio cruzado
 			-
 	- ##  [](#6.2.) Fijación de precios de primer mejor versus segundo mejor
+	  collapsed:: true
 		- Fijación de precios cuando no existe asimetría de información, en el caso de monopolios naturales uniproducto.
 		- Precios de Primer mejor
 		  collapsed:: true
