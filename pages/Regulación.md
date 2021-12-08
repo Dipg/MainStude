@@ -38,5 +38,5 @@
 		- No, debido a que no brinda señales correctas para decidir si lo mas eficiente es dejar de producir [^1]
 -
 -
+  ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
--
