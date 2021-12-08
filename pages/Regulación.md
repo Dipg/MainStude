@@ -25,4 +25,4 @@
 	- Precio de Segundo Mejor
 		- $P=CMe$
 		- Maximiza el bienestar social
-		- C
+		- Cubriendo los costos de producción
