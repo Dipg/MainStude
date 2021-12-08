@@ -50,6 +50,7 @@
 	- ## [](#6.3.) Tarifas Ramsey - Boiteux
 	- Fijación de precios en el caso de monopolio multiproducto, esto es , se tratara el tema de las tarifas optimas con información incompletas o Tarifas Ramsey-Boiteuux o precios de segundo mejor en el caso multiproducto.
 	- ¿Cuál es el objetivo de la Tarifa Ramsey-Boiteux?
+	  collapsed:: true
 		- El objetivo es maximizar el bienestar de la sociedad con la condición de que la empresa no obtenga perdidas
 		- ¿Qué es la condición Break Even?
 			- $\pi >=0$  o  que las empresa no obtengan  perdidas, como se mociono antes
