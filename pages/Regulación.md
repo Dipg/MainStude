@@ -63,7 +63,8 @@
 			  id:: 61b00eda-afac-49c0-8eb3-435f221ae731
 	- ¿Supuestos en tarifas Ramsey?
 		- Existen n productos y/o mercados en los cuales atiende la empresa
-		- Productos
+		- Productos no son interdependientes entre si
+		-
 -
 -
 -
