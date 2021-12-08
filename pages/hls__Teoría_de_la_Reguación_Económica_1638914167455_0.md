@@ -64,3 +64,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61b0010c-839e-4782-99c8-8b97b0605011
+- (p = CMe).
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61b00116-e7fe-4c76-8a95-e000cac4171e
