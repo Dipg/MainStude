@@ -52,7 +52,7 @@
 	- ¿Cuál es el objetivo de la Tarifa Ramsey-Boiteux?
 		- El objetivo es maximizar el bienestar de la sociedad con la condición de que la empresa no obtenga perdidas
 		- ¿Qué es la condición Break Even?
-			- $\pi >=0$  o  que las empresa no obtengan  perdidas, como se meciono antes
+			- $\pi >=0$  o  que las empresa no obtengan  perdidas, como se mociono antes
 			  id:: 61b00eda-afac-49c0-8eb3-435f221ae731
 -
 -
