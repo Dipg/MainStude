@@ -32,4 +32,6 @@
 	  collapsed:: true
 		- El costo medio es mas fácil de observar que el costo marginal
 	- ¿Que pasa si los costos fijos son mayores a la valoración social del bien?
+	  collapsed:: true
 		- Entonces no seria eficiente continuar con su producción?
+-
