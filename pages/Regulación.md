@@ -29,4 +29,4 @@
 		- Cubriendo los costos de producción
 		- La empresa puede autofinanciar su costo
 	- Comparación primer mejor y segundo mejor
-		-
+		- El costo medio es mas facil de observar
