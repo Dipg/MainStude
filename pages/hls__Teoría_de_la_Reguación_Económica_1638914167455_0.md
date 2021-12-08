@@ -88,3 +88,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b002a8-c75c-42b6-b951-4d0199147312
+- En ese caso, el  costo  marginal  no  brinda  la  información  necesaria  para  tomar  una  decisión  correcta,  tal  y  como se muestra en el Gráfico Nº 85. En dicho gráfico se muestra una función de costos totales lineal, donde los costos marginales son constantes, adicionalmente se presentan dos demandas con  diferentes  valoraciones  del  bien,  D1  y  D2.  La  intersección  entre  ambas  demandas  y  el  costo  marginal se asume en el punto A, de donde se deriva un nivel de producción yA  de primer mejor. La producción de dicha cantidad está asociada a un costo medio como CMe, con lo que se produce una pérdida financiera para la empresa correspondiénte al rectángulo ABCD cuando se fija un precio  de  primer  mejor.  Si  la  curva  de  demanda  es  D1,  el  excedente  del  consumidor  es  igual  al  área triangular AFD, de donde se puede observar que dicha demanda no es capaz de financiar la operación de esta empresa en la producción del bien. Esto se debe a que parte del costo fijo se financia a través del excedente del consumidor (área AECD) mientras que debido a que el área EFC es menor al área EAB, el costo de la empresa es mayor a la valoración social de su producto. Por su parte, frente a una demanda como D2, la valoración social es mayor al costo fijo, lo que se puede comprobar ya que el área del triágulo GHC es mayor al área GAB.
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b003f9-6e74-46fe-909d-9ee6fd58c679
