@@ -60,3 +60,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61afe129-bc69-479c-9049-a0169c9a66c5
+- Segundo Mejor
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61b0010c-839e-4782-99c8-8b97b0605011
