@@ -25,3 +25,4 @@
 	- Precio de Segundo Mejor
 		- $P=CMe$
 		- Maximiza el bienestar social
+		- C
