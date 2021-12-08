@@ -76,3 +76,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61b00130-315a-4bb9-abcc-9188cab4f63b
+- a valoración del mercado por dicho bien es menor al monto de subsidio que se requeriría.
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b0025b-6a00-4d90-b25d-faea9358faff
