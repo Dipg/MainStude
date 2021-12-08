@@ -22,7 +22,7 @@
 		- Esta perdida se propone ser financiada con un subsidio $T$
 		- ¿Por que  no es frecuente que las empresas concedan este subsidio y  alcanzar un precio del primer mejor ?
 			- Debido al costo sombra, o costos por recepción de impuestos, carga de excedentes o exceso gravamen
-			- Por otro lado si se brinda un subsido esto puede genera
+			- Por otro lado si se brinda un subsido esto puede genera un incentivo perverso para la reduccion de costos
 	- Precio de Segundo Mejor
 	  collapsed:: true
 		- $P=CMe$
