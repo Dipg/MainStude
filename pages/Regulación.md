@@ -17,7 +17,7 @@
 			- [](#3.)  El subsidio cruzado
 			-
 	- ##  [](#6.2.) Fijación de precios de primer mejor versus segundo mejor
-	  collapsed:: true
+		-
 		- Precios de Primer mejor
 		  collapsed:: true
 			- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
