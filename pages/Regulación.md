@@ -48,7 +48,7 @@
 		  collapsed:: true
 			- El costo medio es el referente correcto de precios a tomar en cuenta, en lugar del costo marginal
 	- ## [](#6.3.) Tarifas Ramsey - Boiteux
-	- Fijación de precios en el caso de monopolio multiproducto, esto es , se tratara
+	- Fijación de precios en el caso de monopolio multiproducto, esto es , se tratara el tema de las tarifas optimas con informaci
 -
 -
 -
