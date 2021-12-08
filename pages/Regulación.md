@@ -61,6 +61,7 @@
 		- ¿Qué es la condición Break Even?
 			- $\pi >=0$  o  que las empresa no obtengan  perdidas, como se mociono antes
 			  id:: 61b00eda-afac-49c0-8eb3-435f221ae731
+	- ¿Supuestos
 -
 -
 -
