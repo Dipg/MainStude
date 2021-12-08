@@ -48,6 +48,7 @@
 		  collapsed:: true
 			- El costo medio es el referente correcto de precios a tomar en cuenta, en lugar del costo marginal
 	- ## [](#6.3.) Tarifas Ramsey - Boiteux
+	-
 -
 -
 -
