@@ -68,3 +68,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61b00116-e7fe-4c76-8a95-e000cac4171e
+- donde la curva de costos medios se cruza con la curva de demanda,
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61b00122-7fb5-4cb5-a692-ed000f0a6891
