@@ -14,7 +14,7 @@
 			- Que las personas de menor ingreso puedan acceder a productos a menos precio
 		- [](#3.)  El subsidio cruzado
 		-
-	- ## Fijación de precios de primer mejor versus segundo mejor
+	- ##  6.Fijación de precios de primer mejor versus segundo mejor
 	- Precios de Primer mejor
 	  collapsed:: true
 		- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
