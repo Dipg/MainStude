@@ -96,3 +96,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b0089d-c0ca-4616-bbc9-377124c9bed5
+- perverso sobre la reducción de costos
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b0097a-6fe0-4341-ab8e-8b8599108927
