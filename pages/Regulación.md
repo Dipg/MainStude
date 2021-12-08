@@ -17,7 +17,7 @@
 			- [](#3.)  El subsidio cruzado
 			-
 	- ##  [](#6.2.) Fijación de precios de primer mejor versus segundo mejor
-		- Fijación de precios cuando no exis
+		- Fijación de precios cuando no existe asimetría de información
 		- Precios de Primer mejor
 		  collapsed:: true
 			- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
