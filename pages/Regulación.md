@@ -64,7 +64,7 @@
 	- ¿Supuestos en tarifas Ramsey?
 		- Existen n productos y/o mercados en los cuales atiende la empresa
 		- Productos no son interdependientes entre si
-		- El bienestar de la sociedad es la sumatoria de los excedentes del cosumidor que se generan en la prduc
+		- El bienestar de la sociedad es la sumatoria de los excedentes del cosumidor que se generan en la producción de cada bien
 		- Vector de cantidades $y=(y_1,y_2...y_n)
 		- Vector de precios  $p=(p_1,p_2...p_n)
 -
