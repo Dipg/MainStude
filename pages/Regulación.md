@@ -40,6 +40,7 @@
 	  collapsed:: true
 		- No, debido a que no brinda señales correctas para decidir si lo mas eficiente es dejar de producir [^1]
 	- En industrias reguladas, donde el costo fijo es muy importante ¿Cuál es el referente de precios a tomar en cuenta?
+		- El costo
 -
 -
   ---
