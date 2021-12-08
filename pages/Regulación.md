@@ -28,4 +28,5 @@
 		- Maximiza el bienestar social
 		- Cubriendo los costos de producción
 		- La empresa puede autofinanciar su costo
-	-
+	- Comparación primer mejor y segundo mejor
+		-
