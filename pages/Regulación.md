@@ -26,4 +26,4 @@
 		- $P=CMe$
 		- Maximiza el bienestar social
 		- Cubriendo los costos de producción
-		- La
+		- La empresa puede autofinanciar su costo
