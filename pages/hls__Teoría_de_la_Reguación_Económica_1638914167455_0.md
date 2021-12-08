@@ -84,3 +84,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b0027f-63b0-42cc-8df3-7156c4be022e
+- si los costos fijos de producción son mayores a la valoración social del bien, entonces no sería eficiente continuar con su producción
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b002a8-c75c-42b6-b951-4d0199147312

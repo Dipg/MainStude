@@ -29,4 +29,6 @@
 		- Cubriendo los costos de producción
 		- La empresa puede autofinanciar su costo
 	- Comparación primer mejor y segundo mejor
+	  collapsed:: true
 		- El costo medio es mas fácil de observar que el costo marginal
+	-
