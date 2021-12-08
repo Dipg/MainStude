@@ -49,9 +49,10 @@
 			- El costo medio es el referente correcto de precios a tomar en cuenta, en lugar del costo marginal
 	- ## [](#6.3.) Tarifas Ramsey - Boiteux
 	- Fijación de precios en el caso de monopolio multiproducto, esto es , se tratara el tema de las tarifas optimas con información incompletas o Tarifas Ramsey-Boiteuux o precios de segundo mejor en el caso multiproducto.
-	- ¿Que clase de información se maneja?
+	- ¿Qué clase de información se maneja?
 	  collapsed:: true
 		- Tarifas optimas con información completa
+	- ¿
 	- ¿Cuál es el objetivo de la Tarifa Ramsey-Boiteux?
 	  collapsed:: true
 		- El objetivo es maximizar el bienestar de la sociedad con la condición de que la empresa no obtenga perdidas
