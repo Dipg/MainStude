@@ -31,4 +31,4 @@
 	- Comparación primer mejor y segundo mejor
 	  collapsed:: true
 		- El costo medio es mas fácil de observar que el costo marginal
-	-
+	- ¿Que pasa si los costos fijos
