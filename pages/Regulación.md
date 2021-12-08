@@ -64,7 +64,7 @@
 	- ¿Supuestos en tarifas Ramsey?
 		- Existen n productos y/o mercados en los cuales atiende la empresa
 		- Productos no son interdependientes entre si
-		-
+		- Vector de cantidades $y=()
 -
 -
 -
