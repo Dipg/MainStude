@@ -34,5 +34,6 @@
 	- ¿Que pasa si los costos fijos son mayores a la valoración social del bien?
 	  collapsed:: true
 		- Entonces no seria eficiente continuar con su producción?
-	- ¿ Nos podemos fi
+	- ¿ Nos podemos fijar en el costo marginal para dejar de producir?
+		- No
 -
