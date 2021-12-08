@@ -23,7 +23,9 @@
 		- Esta perdida se propone ser financiada con un subsidio $T$
 		- ¿Por que  no es frecuente que las empresas concedan este subsidio y  alcanzar un precio del primer mejor ?
 	- Precio de Segundo Mejor
+	  collapsed:: true
 		- $P=CMe$
 		- Maximiza el bienestar social
 		- Cubriendo los costos de producción
 		- La empresa puede autofinanciar su costo
+	-
