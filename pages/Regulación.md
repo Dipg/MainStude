@@ -65,7 +65,7 @@
 		- Existen n productos y/o mercados en los cuales atiende la empresa
 		- Productos no son interdependientes entre si
 		- Vector de cantidades $y=(y_1,y_2...y_n)
-		- V
+		- Vector de precios  $p=()
 -
 -
 -
