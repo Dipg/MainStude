@@ -53,7 +53,8 @@
 	  collapsed:: true
 		- Tarifas optimas con información completa
 	- ¿Relación de costos entre los productos?
-		- Existen costos comunes en la producción de diversos productos, así como sotos especficos, y cosots compartidos.
+	  collapsed:: true
+		- Existen costos comunes en la producción de diversos productos, así como sotos específicos, y costos compartidos.
 	- ¿Cuál es el objetivo de la Tarifa Ramsey-Boiteux?
 	  collapsed:: true
 		- El objetivo es maximizar el bienestar de la sociedad con la condición de que la empresa no obtenga perdidas
