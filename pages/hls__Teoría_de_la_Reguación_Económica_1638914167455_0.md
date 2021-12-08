@@ -72,3 +72,7 @@
   ls-type:: annotation
   hl-page:: 141
   id:: 61b00122-7fb5-4cb5-a692-ed000f0a6891
+- maximizándose el bienestar social y cubriéndose los costos de producción, 
+  ls-type:: annotation
+  hl-page:: 141
+  id:: 61b00130-315a-4bb9-abcc-9188cab4f63b
