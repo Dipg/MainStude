@@ -100,3 +100,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b0097a-6fe0-4341-ab8e-8b8599108927
+- para el caso de las industrias reguladas –donde el costo fijo es muy importante con respecto a la demanda de mercado– el costo medio es el referente correcto de precios a tomar en cuenta, en lugar del costo marginal.
+  ls-type:: annotation
+  hl-page:: 143
+  id:: 61b00a64-5dda-4ec1-9687-aefc7a72166e
