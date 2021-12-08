@@ -35,5 +35,5 @@
 	  collapsed:: true
 		- Entonces no seria eficiente continuar con su producción?
 	- ¿ Nos podemos fijar en el costo marginal para dejar de producir?
-		- No, debido a que no brinda señales
+		- No, debido a que no brinda señales correctas para decidir
 -
