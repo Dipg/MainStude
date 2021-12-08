@@ -46,7 +46,7 @@
 		- En industrias reguladas, donde el costo fijo es muy importante ¿Cuál es el referente de precios a tomar en cuenta?
 		  collapsed:: true
 			- El costo medio es el referente correcto de precios a tomar en cuenta, en lugar del costo marginal
-	- ## [](#6.3.)
+	- ## [](#6.3.) Tarifas Ramsey -
 -
   ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
