@@ -15,7 +15,6 @@
 		- [](#3.)  El subsidio cruzado
 		-
 	- Precios de Primer mejor
-	  collapsed:: true
 		- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
 		- Esto genera una perdida para la empresa igual a sus costos fijos $F$, la perdida esta representada en el siguiente grafico
 		  collapsed:: true
@@ -35,6 +34,7 @@
 	  collapsed:: true
 		- Entonces no seria eficiente continuar con su producción?
 	- ¿ Nos podemos fijar en el costo marginal para dejar de producir?
+	  collapsed:: true
 		- No, debido a que no brinda señales correctas para decidir si lo mas eficiente es dejar de producir [^1]
 -
 -
