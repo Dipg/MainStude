@@ -80,3 +80,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b0025b-6a00-4d90-b25d-faea9358faff
+- En términos generales esto se presenta debido a que el costo marginal no toma en cuenta el costo fijo de producción.
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b0027f-63b0-42cc-8df3-7156c4be022e
