@@ -92,3 +92,7 @@
   ls-type:: annotation
   hl-page:: 142
   id:: 61b003f9-6e74-46fe-909d-9ee6fd58c679
+- Con lo que nuevamente se puede notar que el costo marginal no brinda las señales correctas para decidir si lo más eficiente es dejar de producir un bien o no.
+  ls-type:: annotation
+  hl-page:: 142
+  id:: 61b0089d-c0ca-4616-bbc9-377124c9bed5
