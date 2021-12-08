@@ -34,5 +34,5 @@
 	- ¿Que pasa si los costos fijos son mayores a la valoración social del bien?
 	  collapsed:: true
 		- Entonces no seria eficiente continuar con su producción?
-	- ¿ Con el costo medio podemos
+	- ¿ Nos podemos fi
 -
